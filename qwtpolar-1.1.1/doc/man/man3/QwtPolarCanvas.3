@@ -1,0 +1,239 @@
+.TH "QwtPolarCanvas" 3 "Fri Sep 19 2014" "Version 1.1.1" "Qwt Polar User's Guide" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+QwtPolarCanvas \- 
+.PP
+Canvas of a \fBQwtPolarPlot\fP\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <qwt_polar_canvas\&.h>\fP
+.PP
+Inherits QFrame\&.
+.SS "Public Types"
+
+.in +1c
+.ti -1c
+.RI "enum \fBPaintAttribute\fP { \fBBackingStore\fP = 0x01 }"
+.br
+.RI "\fIPaint attributes\&. \fP"
+.ti -1c
+.RI "typedef QFlags< \fBPaintAttribute\fP > \fBPaintAttributes\fP"
+.br
+.RI "\fIPaint attributes\&. \fP"
+.in -1c
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBQwtPolarCanvas\fP (\fBQwtPolarPlot\fP *)"
+.br
+.RI "\fIConstructor\&. \fP"
+.ti -1c
+.RI "virtual \fB~QwtPolarCanvas\fP ()"
+.br
+.RI "\fIDestructor\&. \fP"
+.ti -1c
+.RI "\fBQwtPolarPlot\fP * \fBplot\fP ()"
+.br
+.ti -1c
+.RI "const \fBQwtPolarPlot\fP * \fBplot\fP () const "
+.br
+.ti -1c
+.RI "void \fBsetPaintAttribute\fP (\fBPaintAttribute\fP, bool on=true)"
+.br
+.RI "\fIChanging the paint attributes\&. \fP"
+.ti -1c
+.RI "bool \fBtestPaintAttribute\fP (\fBPaintAttribute\fP) const "
+.br
+.ti -1c
+.RI "const QPixmap * \fBbackingStore\fP () const "
+.br
+.ti -1c
+.RI "void \fBinvalidateBackingStore\fP ()"
+.br
+.RI "\fIInvalidate the internal backing store\&. \fP"
+.ti -1c
+.RI "QwtPointPolar \fBinvTransform\fP (const QPoint &) const "
+.br
+.ti -1c
+.RI "QPoint \fBtransform\fP (const QwtPointPolar &) const "
+.br
+.in -1c
+.SS "Protected Member Functions"
+
+.in +1c
+.ti -1c
+.RI "virtual void \fBpaintEvent\fP (QPaintEvent *)"
+.br
+.ti -1c
+.RI "virtual void \fBresizeEvent\fP (QResizeEvent *)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Canvas of a \fBQwtPolarPlot\fP\&. 
+
+The canvas is the widget, where all polar items are painted to\&.
+.PP
+\fBNote:\fP
+.RS 4
+In opposite to QwtPlot all axes are painted on the canvas\&. 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBQwtPolarPlot\fP 
+.RE
+.PP
+
+.SH "Member Enumeration Documentation"
+.PP 
+.SS "enum \fBQwtPolarCanvas::PaintAttribute\fP"
+
+.PP
+Paint attributes\&. The default setting enables BackingStore
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetPaintAttribute()\fP, \fBtestPaintAttribute()\fP, \fBbackingStore()\fP 
+.RE
+.PP
+
+.PP
+\fBEnumerator\fP
+.in +1c
+.TP
+\fB\fIBackingStore \fP\fP
+Paint double buffered and reuse the content of the pixmap buffer for some spontaneous repaints that happen when a plot gets unhidden, deiconified or changes the focus\&. 
+.SH "Member Function Documentation"
+.PP 
+.SS "const QPixmap * QwtPolarCanvas::backingStore () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Backing store, might be null 
+.RE
+.PP
+
+.SS "QwtPointPolar QwtPolarCanvas::invTransform (const QPoint &pos) const"
+Translate a point from widget into plot coordinates
+.PP
+\fBParameters:\fP
+.RS 4
+\fIpos\fP Point in widget coordinates of the plot canvas 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Point in plot coordinates
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBtransform()\fP 
+.RE
+.PP
+
+.SS "void QwtPolarCanvas::paintEvent (QPaintEvent *event)\fC [protected]\fP, \fC [virtual]\fP"
+Paint event 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIevent\fP Paint event 
+.RE
+.PP
+
+.SS "\fBQwtPolarPlot\fP * QwtPolarCanvas::plot ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Parent plot widget 
+.RE
+.PP
+
+.SS "const \fBQwtPolarPlot\fP * QwtPolarCanvas::plot () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Parent plot widget 
+.RE
+.PP
+
+.SS "void QwtPolarCanvas::resizeEvent (QResizeEvent *event)\fC [protected]\fP, \fC [virtual]\fP"
+Resize event 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIevent\fP Resize event 
+.RE
+.PP
+
+.SS "void QwtPolarCanvas::setPaintAttribute (\fBPaintAttribute\fPattribute, boolon = \fCtrue\fP)"
+
+.PP
+Changing the paint attributes\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIattribute\fP Paint attribute 
+.br
+\fIon\fP On/Off
+.RE
+.PP
+The default setting enables BackingStore
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBtestPaintAttribute()\fP, paintCache() 
+.RE
+.PP
+
+.SS "bool QwtPolarCanvas::testPaintAttribute (\fBPaintAttribute\fPattribute) const"
+Test wether a paint attribute is enabled
+.PP
+\fBParameters:\fP
+.RS 4
+\fIattribute\fP Paint attribute 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+true if the attribute is enabled 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetPaintAttribute()\fP 
+.RE
+.PP
+
+.SS "QPoint QwtPolarCanvas::transform (const QwtPointPolar &polarPos) const"
+Translate a point from plot into widget coordinates
+.PP
+\fBParameters:\fP
+.RS 4
+\fIpolarPos\fP Point in plot coordinates 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Point in widget coordinates 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBtransform()\fP 
+.RE
+.PP
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Qwt Polar User's Guide from the source code\&.

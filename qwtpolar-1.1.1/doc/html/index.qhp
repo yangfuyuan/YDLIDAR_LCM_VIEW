@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+  <namespace>net.sourceforge.qwtpolar-svn</namespace>
+  <virtualFolder>qwtpolar-svn</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="Qwt Polar User&apos;s Guide 1.1.1" ref="index.html">
+        <section title="QwtPolar - A Qwt/Qt Polar Plot Library" ref="index.html">
+          <section title="License" ref="index.html#license" />
+          <section title="Platforms" ref="index.html#platforms" />
+          <section title="Downloads" ref="index.html#downloads" />
+          <section title="Support" ref="index.html#support" />
+          <section title="Related Projects" ref="index.html#relatedprojects" />
+          <section title="Donations" ref="index.html#donations" />
+          <section title="Credits:" ref="index.html#credits" />
+        </section>
+        <section title="Qwt License, Version 1.0" ref="qwtlicense.html" />
+        <section title="Classes">
+          <section title="Class List" ref="annotated.html">
+            <section title="QwtPolarCanvas" ref="class_qwt_polar_canvas.html">
+              <section title="PaintAttributes" ref="class_qwt_polar_canvas.html#ab66cc45b0cc79958d180be66e08c8202" />
+              <section title="PaintAttribute" ref="class_qwt_polar_canvas.html#a371f88face8daaac6cd556e5f7596613">
+                <section title="BackingStore" ref="class_qwt_polar_canvas.html#a371f88face8daaac6cd556e5f7596613ab8c07aaa7ba2c8833fd4d0cfd9955829" />
+              </section>
+              <section title="QwtPolarCanvas" ref="class_qwt_polar_canvas.html#aa5f39d822a71e056b4735da113a0a4e5" />
+              <section title="~QwtPolarCanvas" ref="class_qwt_polar_canvas.html#aaf0b8442dc8b32353d7705c9dcc28bc0" />
+              <section title="backingStore" ref="class_qwt_polar_canvas.html#a8e40bb677f005bd25c62e65e3e4c8282" />
+              <section title="invalidateBackingStore" ref="class_qwt_polar_canvas.html#a4afef808e10242a83a26f4b856aa4cef" />
+              <section title="invTransform" ref="class_qwt_polar_canvas.html#ae96812128c317a1ab4cd13df0f94bbf3" />
+              <section title="paintEvent" ref="class_qwt_polar_canvas.html#ab8718969291c05c56050f9500da212ad" />
+              <section title="plot" ref="class_qwt_polar_canvas.html#a2f3dc31a8c28390e3a7ec13cab60250e" />
+              <section title="plot" ref="class_qwt_polar_canvas.html#a5dbeb0e16e24c256825a51a1a92d4162" />
+              <section title="resizeEvent" ref="class_qwt_polar_canvas.html#aa3418bc87d68888ac73c70e52a476c27" />
+              <section title="setPaintAttribute" ref="class_qwt_polar_canvas.html#ae7010120b9f6905bd31f748775c80b6c" />
+              <section title="testPaintAttribute" ref="class_qwt_polar_canvas.html#aaf6c538d5c26945df4dbbc2121f4d859" />
+              <section title="transform" ref="class_qwt_polar_canvas.html#a2c2d37fcec08147c1ef2e862dd3edbee" />
+            </section>
+            <section title="QwtPolarCurve" ref="class_qwt_polar_curve.html">
+              <section title="LegendAttributes" ref="class_qwt_polar_curve.html#ac52b0fb483eb1114bc09328634faf641" />
+              <section title="CurveStyle" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6">
+                <section title="NoCurve" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6a98a2084e94b848166c92636432e1c88e" />
+                <section title="Lines" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6ae800b606b10d7eb1dab59631c8b45358" />
+                <section title="UserCurve" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6a1be5e3093436495726f83f4c1e99c427" />
+              </section>
+              <section title="LegendAttribute" ref="class_qwt_polar_curve.html#a48eb3748b6a9b6533386c09fe27f8e89">
+                <section title="LegendShowLine" ref="class_qwt_polar_curve.html#a48eb3748b6a9b6533386c09fe27f8e89a134996220124389ab810cc09fc437ef1" />
+                <section title="LegendShowSymbol" ref="class_qwt_polar_curve.html#a48eb3748b6a9b6533386c09fe27f8e89aacac949c4679b0ff6cc05650d0da174d" />
+              </section>
+              <section title="QwtPolarCurve" ref="class_qwt_polar_curve.html#ab1443252c40c6c7d27e11b701f0c4c91" />
+              <section title="QwtPolarCurve" ref="class_qwt_polar_curve.html#a5047f83adf6bf66a8942e536834e177b" />
+              <section title="QwtPolarCurve" ref="class_qwt_polar_curve.html#a5015a32500062be7c7c2c4668fc7294f" />
+              <section title="~QwtPolarCurve" ref="class_qwt_polar_curve.html#af99dc41ede43167ac8b28c287158b00a" />
+              <section title="boundingInterval" ref="class_qwt_polar_curve.html#ae43e2e9454d340adf4504e3db15cdcd0" />
+              <section title="curveFitter" ref="class_qwt_polar_curve.html#ae5ba7a53c4440b7102804bb48df54e10" />
+              <section title="data" ref="class_qwt_polar_curve.html#aa9f53530966ab36b2b5f03db9e8ab537" />
+              <section title="dataSize" ref="class_qwt_polar_curve.html#a42bec3abf4ad3f94a7382e3c328f57ba" />
+              <section title="draw" ref="class_qwt_polar_curve.html#a001f01dc529951aaf2179ddb34d263eb" />
+              <section title="draw" ref="class_qwt_polar_curve.html#a11788ce808135b0746b82390624b90f0" />
+              <section title="drawCurve" ref="class_qwt_polar_curve.html#a7e10d7e657df6837ffc6f63c1695c3f8" />
+              <section title="drawLines" ref="class_qwt_polar_curve.html#a47037ce826144afa0ba824acd0f04efa" />
+              <section title="drawSymbols" ref="class_qwt_polar_curve.html#a59f6e8de3a47ea4100212635d97b17e6" />
+              <section title="init" ref="class_qwt_polar_curve.html#ad99ae37d57853661df31aa18ff4bc4fc" />
+              <section title="legendIcon" ref="class_qwt_polar_curve.html#aca19e86b2f57d9968da0dbca825b0d1f" />
+              <section title="pen" ref="class_qwt_polar_curve.html#a58300578d5a43c7af918f84c009aebb4" />
+              <section title="rtti" ref="class_qwt_polar_curve.html#aabc3a59834769fb9a23fc7115c64abbe" />
+              <section title="sample" ref="class_qwt_polar_curve.html#a86d1ad7786eeece685ef1122a35fd729" />
+              <section title="setCurveFitter" ref="class_qwt_polar_curve.html#abcd7ce0a4b6dbfe470bce5370cdffb7c" />
+              <section title="setData" ref="class_qwt_polar_curve.html#af331933dc8508cf183b95be73931d84e" />
+              <section title="setLegendAttribute" ref="class_qwt_polar_curve.html#aa3bca82242e6faaabe53a203002259f3" />
+              <section title="setPen" ref="class_qwt_polar_curve.html#a5f649b65305875ba46d6ca12b5104ac0" />
+              <section title="setStyle" ref="class_qwt_polar_curve.html#a409832d66cc708e9d04cba21f4cbd504" />
+              <section title="setSymbol" ref="class_qwt_polar_curve.html#a7e970eaf63fed27fb0d346905bd526f6" />
+              <section title="style" ref="class_qwt_polar_curve.html#a7b5a814ee07bc1ce865d9c59b0314aa2" />
+              <section title="symbol" ref="class_qwt_polar_curve.html#a42daf23c111469bd2478bbd9f70b7c92" />
+              <section title="testLegendAttribute" ref="class_qwt_polar_curve.html#aadfb76af04f70b0d94beb8e8eaffb336" />
+            </section>
+            <section title="QwtPolarFitter" ref="class_qwt_polar_fitter.html">
+              <section title="QwtPolarFitter" ref="class_qwt_polar_fitter.html#a88d0ab40691bab03bd52399bce35f46b" />
+              <section title="~QwtPolarFitter" ref="class_qwt_polar_fitter.html#af44b4b5f62393add4ea35b11b6723c12" />
+              <section title="fitCurve" ref="class_qwt_polar_fitter.html#a564aaaf5efa7b075175336b3ced50c30" />
+              <section title="setStepCount" ref="class_qwt_polar_fitter.html#a3250f0d3fe6e7a658ce46920fe7efcab" />
+              <section title="stepCount" ref="class_qwt_polar_fitter.html#a8e44f8c47ba4c4d35860d2723dfb05ce" />
+            </section>
+            <section title="QwtPolarGrid" ref="class_qwt_polar_grid.html">
+              <section title="DisplayFlags" ref="class_qwt_polar_grid.html#ae1383a75c51af0593b033a845026d1e0" />
+              <section title="GridAttributes" ref="class_qwt_polar_grid.html#a7ffa2a7d51b72dbcee168e32e947d99f" />
+              <section title="DisplayFlag" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055">
+                <section title="SmartOriginLabel" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055ad74eae987acba9af0528de510b5607cb" />
+                <section title="HideMaxRadiusLabel" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055aa771cd2d590277b2b154eae6955796c2" />
+                <section title="ClipAxisBackground" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055a79cafc8f8f6d5690d484da2977e2167c" />
+                <section title="SmartScaleDraw" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055aabd6328294611636aa2d0396b49ab3b6" />
+                <section title="ClipGridLines" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055ae6be534e43d8ee4924cdcdba9d2fe2e7" />
+              </section>
+              <section title="GridAttribute" ref="class_qwt_polar_grid.html#a09b4892bfd7f5889aa5e2103ed934fdf">
+                <section title="AutoScaling" ref="class_qwt_polar_grid.html#a09b4892bfd7f5889aa5e2103ed934fdfa18e237f72b8a2d181f3e0cabafb8919c" />
+              </section>
+              <section title="QwtPolarGrid" ref="class_qwt_polar_grid.html#afdfbb00c19597076df15b5b07e88110f" />
+              <section title="~QwtPolarGrid" ref="class_qwt_polar_grid.html#a2e7a8abbef8775ace90c364a60cc9baa" />
+              <section title="axisFont" ref="class_qwt_polar_grid.html#aa5a0d4d8054b1f19ee14a9df94396a58" />
+              <section title="axisPen" ref="class_qwt_polar_grid.html#ac70755a88e840542d80169be7fcbbf23" />
+              <section title="azimuthScaleDraw" ref="class_qwt_polar_grid.html#a00222d832044af77b7b90fa218954103" />
+              <section title="azimuthScaleDraw" ref="class_qwt_polar_grid.html#afc1cb431dba039c2d043581ea3cc1770" />
+              <section title="draw" ref="class_qwt_polar_grid.html#a77d1f376e0c8a5ec8204e89e2ac3a9e2" />
+              <section title="drawAxis" ref="class_qwt_polar_grid.html#a01f5a873424063c81b484371e7fe97c6" />
+              <section title="drawCircles" ref="class_qwt_polar_grid.html#a652eb3927accedb94e3aeda0029b0a7c" />
+              <section title="drawRays" ref="class_qwt_polar_grid.html#aaa246d60c90d13fc2a6f1cf3e4bb6f41" />
+              <section title="isAxisVisible" ref="class_qwt_polar_grid.html#aa4074d98c30f5a7c064f59147a1a2bf3" />
+              <section title="isGridVisible" ref="class_qwt_polar_grid.html#a8823c7371f96540199003be743c9ab85" />
+              <section title="isMinorGridVisible" ref="class_qwt_polar_grid.html#a119fc9e572968dc5156bc544545ac134" />
+              <section title="majorGridPen" ref="class_qwt_polar_grid.html#a483eeaa36006047a8352556ee439c31c" />
+              <section title="marginHint" ref="class_qwt_polar_grid.html#a39ca877764c2e81619f7c086213a22bc" />
+              <section title="minorGridPen" ref="class_qwt_polar_grid.html#a65c1a307e4f183955506de2a5a14ef72" />
+              <section title="rtti" ref="class_qwt_polar_grid.html#a68286ec1cdd0d1a2c3ca051a1cb1be83" />
+              <section title="scaleDraw" ref="class_qwt_polar_grid.html#afb12f222d16f3605e2e677f3a699d875" />
+              <section title="scaleDraw" ref="class_qwt_polar_grid.html#a85172a85908f05c2a4f7235460937ea2" />
+              <section title="setAxisFont" ref="class_qwt_polar_grid.html#aa9f060daabb2f6c9e260801790bfee73" />
+              <section title="setAxisPen" ref="class_qwt_polar_grid.html#aaff0703b1d70a5016e2d5e71b218589c" />
+              <section title="setAzimuthScaleDraw" ref="class_qwt_polar_grid.html#a620a6a4195b39b106b47d2555afa3500" />
+              <section title="setDisplayFlag" ref="class_qwt_polar_grid.html#acfbac4c25b75cb2229eb10c99a72cab2" />
+              <section title="setFont" ref="class_qwt_polar_grid.html#abc0cf0b2b3b2e598a1cbfe653b649253" />
+              <section title="setGridAttribute" ref="class_qwt_polar_grid.html#a11d28f181e66e8da1fd5ccfaf89f1e02" />
+              <section title="setMajorGridPen" ref="class_qwt_polar_grid.html#abfc2f5a33722a7e3f9efe3161f5e4d72" />
+              <section title="setMajorGridPen" ref="class_qwt_polar_grid.html#a4a6f65d32ea82684e47be0ea3cb3d6ce" />
+              <section title="setMinorGridPen" ref="class_qwt_polar_grid.html#a3dc9a9cc4d1c9847cdd0c905053cd43e" />
+              <section title="setMinorGridPen" ref="class_qwt_polar_grid.html#a17bbb4cf20e0f059e3b0837d46ca1311" />
+              <section title="setPen" ref="class_qwt_polar_grid.html#a61054e5b3a1d9a2881a55862c7da08aa" />
+              <section title="setScaleDraw" ref="class_qwt_polar_grid.html#a203af948dec0f3fddd5bb3fca473b1fe" />
+              <section title="showAxis" ref="class_qwt_polar_grid.html#ab6f1f400f104c938ea6032c5eb7f8cf4" />
+              <section title="showGrid" ref="class_qwt_polar_grid.html#a3c21b8526cb89a1a1edc5e566a374cf9" />
+              <section title="showMinorGrid" ref="class_qwt_polar_grid.html#a3b2b9df8177be01976932759347a6a70" />
+              <section title="testDisplayFlag" ref="class_qwt_polar_grid.html#aac55124a5d1e3bdbed47bb69f2731fe3" />
+              <section title="testGridAttribute" ref="class_qwt_polar_grid.html#a61eed24a823b250a35bf19132af332e8" />
+              <section title="updateScaleDiv" ref="class_qwt_polar_grid.html#ade05222167f4d6f5734f9dd21983ab16" />
+            </section>
+            <section title="QwtPolarItem" ref="class_qwt_polar_item.html">
+              <section title="ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+              <section title="RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+              <section title="ItemAttribute" ref="class_qwt_polar_item.html#a3dfa4f39bc1ac99b0371b4938abe6ad6">
+                <section title="Legend" ref="class_qwt_polar_item.html#a3dfa4f39bc1ac99b0371b4938abe6ad6a6f900569b4e72f925ea64bed4d149d5e" />
+                <section title="AutoScale" ref="class_qwt_polar_item.html#a3dfa4f39bc1ac99b0371b4938abe6ad6a7f9ee77f4ec3170c4c7255bf4bd4399c" />
+              </section>
+              <section title="RenderHint" ref="class_qwt_polar_item.html#aafc969899461b4fb481396cd347614ed">
+                <section title="RenderAntialiased" ref="class_qwt_polar_item.html#aafc969899461b4fb481396cd347614edaeb386d24afe0bb558475d66d794f865f" />
+              </section>
+              <section title="RttiValues" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4d">
+                <section title="Rtti_PolarItem" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dafcfda7285dc39cce71850cc5a77ada5f" />
+                <section title="Rtti_PolarGrid" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dac340359909c847d927c733a01b439fb2" />
+                <section title="Rtti_PolarMarker" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dab10c6fd2f1f1e9fa05eeb00100fe45c6" />
+                <section title="Rtti_PolarCurve" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dad2b363a80ab5fde478a4fa996908d685" />
+                <section title="Rtti_PolarSpectrogram" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dad95b3f4515ee8f2058c633a5d2367427" />
+                <section title="Rtti_PolarUserItem" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4da6bfd70526ffc398e3d1a3e184d73428d" />
+              </section>
+              <section title="QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+              <section title="~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+              <section title="attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+              <section title="boundingInterval" ref="class_qwt_polar_item.html#a363ebecfec7301fbc2ed1fd548044cb6" />
+              <section title="detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+              <section title="draw" ref="class_qwt_polar_item.html#a0493eb028a85753735073754be269e4d" />
+              <section title="hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+              <section title="isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+              <section title="itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+              <section title="legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+              <section title="legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+              <section title="legendIcon" ref="class_qwt_polar_item.html#a60709288c71e7e96ac158eb422e64fd2" />
+              <section title="legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+              <section title="marginHint" ref="class_qwt_polar_item.html#ae20a3bbecbae30cd8142f44aaa71ccaf" />
+              <section title="plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+              <section title="renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+              <section title="rtti" ref="class_qwt_polar_item.html#ad40d202e182f572603a682ccab79d7ac" />
+              <section title="setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+              <section title="setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+              <section title="setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+              <section title="setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+              <section title="setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+              <section title="setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+              <section title="setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+              <section title="setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+              <section title="show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+              <section title="testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+              <section title="testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+              <section title="title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+              <section title="updateScaleDiv" ref="class_qwt_polar_item.html#a459d264543f40e9a41de90bc486b0f1f" />
+              <section title="z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+            </section>
+            <section title="QwtPolarItemDict" ref="class_qwt_polar_item_dict.html">
+              <section title="QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#a9717d88ce4a23546b5a56060d86c8595" />
+              <section title="~QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#aeca432e58593e41b2ca5d93035bc9ad3" />
+              <section title="autoDelete" ref="class_qwt_polar_item_dict.html#af1db02fa80ef7ddaae4536ebfd919d6f" />
+              <section title="detachItems" ref="class_qwt_polar_item_dict.html#ac0dcbd853fc53ec5c359fb352befe500" />
+              <section title="insertItem" ref="class_qwt_polar_item_dict.html#abfd1d7fa38cfbbb60b3f70d67df5f3dd" />
+              <section title="itemList" ref="class_qwt_polar_item_dict.html#a314670f759fedd4e7c8c1c83f47e274b" />
+              <section title="removeItem" ref="class_qwt_polar_item_dict.html#aed3737df07b7b236115d27d69d0015f9" />
+              <section title="setAutoDelete" ref="class_qwt_polar_item_dict.html#a6c01bbae83741e723373c6ddf481661d" />
+            </section>
+            <section title="QwtPolarLayout" ref="class_qwt_polar_layout.html">
+              <section title="Options" ref="class_qwt_polar_layout.html#a3ecb4fa1ce6af120664826a23c23c1de" />
+              <section title="Option" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60">
+                <section title="IgnoreScrollbars" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60a8a7a635824e491b226168b111c9a0d02" />
+                <section title="IgnoreFrames" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60ad8271c6678339e4437e99e176a4b1083" />
+                <section title="IgnoreTitle" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60acf042507d0b592c5abe6cf38bda89c3d" />
+                <section title="IgnoreLegend" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60a31b6d1acf6a8a48e9535146c82c0f491" />
+              </section>
+              <section title="QwtPolarLayout" ref="class_qwt_polar_layout.html#a9848348288897ff46ae81adec0e7709e" />
+              <section title="~QwtPolarLayout" ref="class_qwt_polar_layout.html#a0ff0510bfe19061bb5141e3a1f2d443d" />
+              <section title="activate" ref="class_qwt_polar_layout.html#ace67c815318ea82df12d132cde050c62" />
+              <section title="canvasRect" ref="class_qwt_polar_layout.html#a8b84214c5c930b1d211b5abafe58f3ae" />
+              <section title="invalidate" ref="class_qwt_polar_layout.html#a4abf2bf66f1c89901f0c253e66cc8a23" />
+              <section title="layoutLegend" ref="class_qwt_polar_layout.html#a0d1ef3e1dcb3137be12a3450b6d4ad18" />
+              <section title="legendPosition" ref="class_qwt_polar_layout.html#a0e12a3da6cf6ec115be3f2ea07b646e7" />
+              <section title="legendRatio" ref="class_qwt_polar_layout.html#ae3455dbe7f10bc656ca6dae58cc37d8c" />
+              <section title="legendRect" ref="class_qwt_polar_layout.html#a95eb411bc2065282887c34df95e39784" />
+              <section title="setLegendPosition" ref="class_qwt_polar_layout.html#a42d727d2015fe7ac0ecd373c812359bf" />
+              <section title="setLegendPosition" ref="class_qwt_polar_layout.html#aeb16a4140e3b0016ed44d417bda1c8e4" />
+              <section title="setLegendRatio" ref="class_qwt_polar_layout.html#a2be38703cdcc2ff6a4b20a09b6295897" />
+              <section title="titleRect" ref="class_qwt_polar_layout.html#a5238180021579c5c5f74dea54191d6ea" />
+            </section>
+            <section title="QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html">
+              <section title="QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html#ae18757a8ee2be73c4cf264720cb37d18" />
+              <section title="~QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html#ae8e07b7b25186ef3db390f2792e960d5" />
+              <section title="canvas" ref="class_qwt_polar_magnifier.html#ab7542ea6d40639e29fd5e802220922eb" />
+              <section title="canvas" ref="class_qwt_polar_magnifier.html#a8f27d27d30efeb717daea14d8d9228f9" />
+              <section title="getUnzoomKey" ref="class_qwt_polar_magnifier.html#a6a68d42d2b1d56576408f07dbb197f32" />
+              <section title="plot" ref="class_qwt_polar_magnifier.html#aabb702a524ca685d410005003c6fdf52" />
+              <section title="plot" ref="class_qwt_polar_magnifier.html#a183034e5548f07d71e46984c1b5591fb" />
+              <section title="rescale" ref="class_qwt_polar_magnifier.html#a5baa0adfe77369414a52941d4b894b7f" />
+              <section title="setUnzoomKey" ref="class_qwt_polar_magnifier.html#a87548a332156609548d036bce63239cf" />
+              <section title="unzoom" ref="class_qwt_polar_magnifier.html#a7785d799a0fd09225baaefaa36de9671" />
+              <section title="widgetKeyPressEvent" ref="class_qwt_polar_magnifier.html#a5276d05e09936f608d6e7d06d5f58ace" />
+            </section>
+            <section title="QwtPolarMarker" ref="class_qwt_polar_marker.html">
+              <section title="QwtPolarMarker" ref="class_qwt_polar_marker.html#a88c2659eeab01c40bb8b4f4b4b4f01cd" />
+              <section title="~QwtPolarMarker" ref="class_qwt_polar_marker.html#a059123939c2d477e8e09fa7badb56679" />
+              <section title="boundingInterval" ref="class_qwt_polar_marker.html#abf816c0815284945268f24e8f2d8216b" />
+              <section title="draw" ref="class_qwt_polar_marker.html#a6e0ff07210a36bc5e8bb706759ac8f70" />
+              <section title="label" ref="class_qwt_polar_marker.html#ae89c054d13fa9cc6d112a6d5dc15711b" />
+              <section title="labelAlignment" ref="class_qwt_polar_marker.html#af33273c53b6d0a5de3a4f2a19cd9b78a" />
+              <section title="position" ref="class_qwt_polar_marker.html#a016894c55e8fb7ee4389aec90867a172" />
+              <section title="rtti" ref="class_qwt_polar_marker.html#a118ca275cc88207b745b99e5d9c7a1f9" />
+              <section title="setLabel" ref="class_qwt_polar_marker.html#a215881a4b8883ecc2e2f7fa2ba6d822d" />
+              <section title="setLabelAlignment" ref="class_qwt_polar_marker.html#a09f72cfe702be202dcb0fbca2c93eb31" />
+              <section title="setPosition" ref="class_qwt_polar_marker.html#a6f419a2c80865b12f57200f59f1eeb64" />
+              <section title="setSymbol" ref="class_qwt_polar_marker.html#a0a416aa96c69f57d24a5f4d2021dc501" />
+              <section title="symbol" ref="class_qwt_polar_marker.html#aa2eea58f77d02395315b1099a27c81ee" />
+            </section>
+            <section title="QwtPolarPanner" ref="class_qwt_polar_panner.html">
+              <section title="QwtPolarPanner" ref="class_qwt_polar_panner.html#ab05222bd343f9b989d3ab2b0146d9d1d" />
+              <section title="~QwtPolarPanner" ref="class_qwt_polar_panner.html#a2e32d9b9d402ffe7b3c9b58eb3ca5c54" />
+              <section title="canvas" ref="class_qwt_polar_panner.html#a1052cdb6fcd1fb7223cf79fb1f8dc877" />
+              <section title="canvas" ref="class_qwt_polar_panner.html#a2ca3fb779c1020c896f4151b67791345" />
+              <section title="movePlot" ref="class_qwt_polar_panner.html#ad339c9b1825b5582ba0450efd478dbdd" />
+              <section title="plot" ref="class_qwt_polar_panner.html#ad5e6f988efb71e9d6e0926ddff7bff35" />
+              <section title="plot" ref="class_qwt_polar_panner.html#a29508c1dde291b4c443ce6c554fc061d" />
+              <section title="widgetMousePressEvent" ref="class_qwt_polar_panner.html#a1e904467ed89354c473e228082464bc4" />
+            </section>
+            <section title="QwtPolarPicker" ref="class_qwt_polar_picker.html">
+              <section title="QwtPolarPicker" ref="class_qwt_polar_picker.html#afba4aa9c224977ec360f11ac6dfd8ab7" />
+              <section title="~QwtPolarPicker" ref="class_qwt_polar_picker.html#a443aa15d588e545e0c521d4fe659dfcf" />
+              <section title="QwtPolarPicker" ref="class_qwt_polar_picker.html#afd8e121e96b3e07e1bea355d684cc810" />
+              <section title="append" ref="class_qwt_polar_picker.html#a7a50b35af9bd4d86375d062e46aa024c" />
+              <section title="appended" ref="class_qwt_polar_picker.html#acd5e12d2e87daea46199a54972e5733f" />
+              <section title="canvas" ref="class_qwt_polar_picker.html#a90fbfa9b908fa96f95e5b97b34c98673" />
+              <section title="canvas" ref="class_qwt_polar_picker.html#a0469869b0fc161d3595f4323a4777251" />
+              <section title="end" ref="class_qwt_polar_picker.html#aaea1c66152094bb589de80a2904e7314" />
+              <section title="invTransform" ref="class_qwt_polar_picker.html#a913082d3de9c35fc50e754c088b6287a" />
+              <section title="move" ref="class_qwt_polar_picker.html#a6fdfe51cac45376f47043dc70f72425b" />
+              <section title="moved" ref="class_qwt_polar_picker.html#a576017f80c82efb879f23346425428c0" />
+              <section title="pickRect" ref="class_qwt_polar_picker.html#a869fb18bb0bd520d24655d4c160972a0" />
+              <section title="plot" ref="class_qwt_polar_picker.html#a81d6982eee8985d66a243b8225480fbc" />
+              <section title="plot" ref="class_qwt_polar_picker.html#aa168e0a001ffcab5a5623263e1522d9d" />
+              <section title="selected" ref="class_qwt_polar_picker.html#a24f5e3c132954a6cfa1d7d8dd66dd5fe" />
+              <section title="selected" ref="class_qwt_polar_picker.html#aff83cb76c75ce31607291e84254c67a8" />
+              <section title="trackerText" ref="class_qwt_polar_picker.html#ab4c1102a0532cf41533681550df50726" />
+              <section title="trackerTextPolar" ref="class_qwt_polar_picker.html#adfeb812be2103de5637af03a9a5677a9" />
+            </section>
+            <section title="QwtPolarPlot" ref="class_qwt_polar_plot.html">
+              <section title="LegendPosition" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2e">
+                <section title="LeftLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea5fbf30c354173cf150569516e37c4cf3" />
+                <section title="RightLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2eabf14172e3a5118071816ef98bf3704d0" />
+                <section title="BottomLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea2385fedbe596ddb9319ca76db6afd9e7" />
+                <section title="TopLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2eaa414a0712297511a994febffaa1408f0" />
+                <section title="ExternalLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea90bc392c0e385337fa017280e9b8c410" />
+              </section>
+              <section title="QwtPolarPlot" ref="class_qwt_polar_plot.html#ab5c8602062f050b1a5c47445fee4395d" />
+              <section title="QwtPolarPlot" ref="class_qwt_polar_plot.html#a2ddec071ab7580975733fee0f40c6606" />
+              <section title="~QwtPolarPlot" ref="class_qwt_polar_plot.html#a8b962b1ec76b41cdf3c96bd7ef6d76ed" />
+              <section title="autoRefresh" ref="class_qwt_polar_plot.html#a4ed94d675d589ebc25297016c062d242" />
+              <section title="autoReplot" ref="class_qwt_polar_plot.html#acc2a2ff1597c961bdb9a44a494243282" />
+              <section title="azimuthOrigin" ref="class_qwt_polar_plot.html#a9247efe9a6407d181493d43e130ed6f3" />
+              <section title="canvas" ref="class_qwt_polar_plot.html#ae9ede547afe5adb405f2bf32161967cd" />
+              <section title="canvas" ref="class_qwt_polar_plot.html#a54da138ca95b20f7fdc00d2f64a02eff" />
+              <section title="drawCanvas" ref="class_qwt_polar_plot.html#a1d48a6ec29d27eb27e3ccf0ec64b27e7" />
+              <section title="drawItems" ref="class_qwt_polar_plot.html#a284c436178dc3fe96f35038da05804e2" />
+              <section title="event" ref="class_qwt_polar_plot.html#a3532e508238c3d1f2c5fc6f5dabb17f2" />
+              <section title="hasAutoScale" ref="class_qwt_polar_plot.html#a4f8e0a7b726fddf5a3c7c2796eb41dd2" />
+              <section title="infoToItem" ref="class_qwt_polar_plot.html#a20d3f4cd3a59e16bb8cf05422678c011" />
+              <section title="insertLegend" ref="class_qwt_polar_plot.html#a98b7c37bfd9af060d138bee74a82d82e" />
+              <section title="itemAttached" ref="class_qwt_polar_plot.html#a8e53799a658c70eea88ec517cac9dfc2" />
+              <section title="itemToInfo" ref="class_qwt_polar_plot.html#a44b6a59554b640d48127f316f221f871" />
+              <section title="layoutChanged" ref="class_qwt_polar_plot.html#a0d5fe3e01744aebb6f76f969b153564a" />
+              <section title="legend" ref="class_qwt_polar_plot.html#accce9ede21cacb563d72797c12d60b3f" />
+              <section title="legend" ref="class_qwt_polar_plot.html#a37e8c0146d62746c5fb1ebba37c3d65a" />
+              <section title="legendDataChanged" ref="class_qwt_polar_plot.html#abbb2d09b3550c70fb9f4a4ca089a6ff3" />
+              <section title="plotBackground" ref="class_qwt_polar_plot.html#a416a649fc41682a20c75f6b6c343feb0" />
+              <section title="plotLayout" ref="class_qwt_polar_plot.html#a05010dfe67a2fb29d8c2313562c138eb" />
+              <section title="plotLayout" ref="class_qwt_polar_plot.html#a0ad8d93ab9b2da7bed35f7706e374b3e" />
+              <section title="plotMarginHint" ref="class_qwt_polar_plot.html#ace171fd523e6822e8ed998794bbaa2e7" />
+              <section title="plotRect" ref="class_qwt_polar_plot.html#a1fa8abb31a7de8cfb66266e033c128ed" />
+              <section title="plotRect" ref="class_qwt_polar_plot.html#aeccebc17c7f1a636a606cf3930852feb" />
+              <section title="replot" ref="class_qwt_polar_plot.html#a85e55f95073ed7370e601634990ac888" />
+              <section title="resizeEvent" ref="class_qwt_polar_plot.html#a836cf5b8b741bf83a532d2963aca2abe" />
+              <section title="scaleDiv" ref="class_qwt_polar_plot.html#a54f8c3785f55b3bbdc07299019d93279" />
+              <section title="scaleDiv" ref="class_qwt_polar_plot.html#a400f242db624d992cba1814a519ac287" />
+              <section title="scaleEngine" ref="class_qwt_polar_plot.html#a6c7ea6125b86ae3d38651d939c5fd213" />
+              <section title="scaleEngine" ref="class_qwt_polar_plot.html#a1466d72ee7f0d18072daac44877fce26" />
+              <section title="scaleMap" ref="class_qwt_polar_plot.html#a6768fd400ebc36f2fdca9b88d389ecd7" />
+              <section title="scaleMap" ref="class_qwt_polar_plot.html#a6dd2179f92536f1d930ae5faa2bbae8f" />
+              <section title="scaleMaxMajor" ref="class_qwt_polar_plot.html#a6c5244ac91157cb0155edea008fb44d2" />
+              <section title="scaleMaxMinor" ref="class_qwt_polar_plot.html#aad93563c68bc416ed02c4db8705fbed7" />
+              <section title="setAutoReplot" ref="class_qwt_polar_plot.html#ab129bbae133d55313ae1509598f5db82" />
+              <section title="setAutoScale" ref="class_qwt_polar_plot.html#ad2cab7dc3d80c028619c0852d5107494" />
+              <section title="setAzimuthOrigin" ref="class_qwt_polar_plot.html#a5e24770b1b2de5271e3ecb63ea67aa81" />
+              <section title="setPlotBackground" ref="class_qwt_polar_plot.html#ae6956ffe638c4d9de24043608630c984" />
+              <section title="setScale" ref="class_qwt_polar_plot.html#a1151e6417b3e8ccacbce0865a71220cb" />
+              <section title="setScaleDiv" ref="class_qwt_polar_plot.html#ac9a938b4e27a078f55fda06f7c420924" />
+              <section title="setScaleEngine" ref="class_qwt_polar_plot.html#aaf4cd1c3a9c26850e675ed3b112c245e" />
+              <section title="setScaleMaxMajor" ref="class_qwt_polar_plot.html#a6eb472268e07a9783d6a0cf54b5f12b3" />
+              <section title="setScaleMaxMinor" ref="class_qwt_polar_plot.html#a02f444638f5ec84c37d35b7984533298" />
+              <section title="setTitle" ref="class_qwt_polar_plot.html#afd19f3e3e758305d50fbe59a853ed31d" />
+              <section title="setTitle" ref="class_qwt_polar_plot.html#afcb7ab87dd57194e28340bf2b7d62cd8" />
+              <section title="title" ref="class_qwt_polar_plot.html#a5910808ea70fc18a6d688278c8aaa064" />
+              <section title="titleLabel" ref="class_qwt_polar_plot.html#af77f9c944fd4a32bb7ea173b75b32e0b" />
+              <section title="titleLabel" ref="class_qwt_polar_plot.html#a579615162e842f45dc9051fcbab96d3d" />
+              <section title="unzoom" ref="class_qwt_polar_plot.html#a43f40adc59f7acb4f609e48be2327ade" />
+              <section title="updateLayout" ref="class_qwt_polar_plot.html#a71891d3c14200d157febefa035297acd" />
+              <section title="updateLegend" ref="class_qwt_polar_plot.html#ae87700c0bac8488aed5a478ab5098830" />
+              <section title="updateLegend" ref="class_qwt_polar_plot.html#ae1837c0e815161dba219a9a33e72356b" />
+              <section title="updateScale" ref="class_qwt_polar_plot.html#a970b9df01bc032ad6b028232d4bea7f1" />
+              <section title="visibleInterval" ref="class_qwt_polar_plot.html#a2802694cacce9a49278d123037da1239" />
+              <section title="zoom" ref="class_qwt_polar_plot.html#a89a033c97d6301c70a5df054b5d27de9" />
+              <section title="zoomFactor" ref="class_qwt_polar_plot.html#a23b48a44ddbd6eea1385c01b46ede71c" />
+              <section title="zoomPos" ref="class_qwt_polar_plot.html#a7a33bd2357bcb715d7ad8da3a9454eda" />
+              <section title="QwtPolarItem" ref="class_qwt_polar_plot.html#a4e1135b696589dcc39bedb0b66820148" />
+            </section>
+            <section title="QwtPolarRenderer" ref="class_qwt_polar_renderer.html">
+              <section title="QwtPolarRenderer" ref="class_qwt_polar_renderer.html#a58aa83824c90dbf1dd240a6fbf905fdf" />
+              <section title="~QwtPolarRenderer" ref="class_qwt_polar_renderer.html#aa67b03290bf743cc0b102161589180d5" />
+              <section title="exportTo" ref="class_qwt_polar_renderer.html#a0ede3c5f86bc2af43c49dde2ff1eeb66" />
+              <section title="render" ref="class_qwt_polar_renderer.html#a4e0824cda27ff507a888b7a45ea93ed6" />
+              <section title="renderDocument" ref="class_qwt_polar_renderer.html#a81598da0f256448708d0118e724ae08c" />
+              <section title="renderDocument" ref="class_qwt_polar_renderer.html#a963c267b7fdf0d398a27392d87e960dd" />
+              <section title="renderLegend" ref="class_qwt_polar_renderer.html#a21e60df1c25790b9b59f2b97b9a8af00" />
+              <section title="renderTitle" ref="class_qwt_polar_renderer.html#a5995838042666f63e448ffc5a3acc73f" />
+              <section title="renderTo" ref="class_qwt_polar_renderer.html#ab966c5d47e69ee1c323934a60f1a25f1" />
+              <section title="renderTo" ref="class_qwt_polar_renderer.html#a9e8d36d1975b14860ee57d3d4600c1eb" />
+            </section>
+            <section title="QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html">
+              <section title="PaintAttributes" ref="class_qwt_polar_spectrogram.html#afc15ef1990ee77db8f96bc8cd760dccd" />
+              <section title="PaintAttribute" ref="class_qwt_polar_spectrogram.html#a2a6dc68b2e1aa6959b196223bfe2e974">
+                <section title="ApproximatedAtan" ref="class_qwt_polar_spectrogram.html#a2a6dc68b2e1aa6959b196223bfe2e974a648db7c6b84aec213eaeea7698793288" />
+              </section>
+              <section title="QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html#a109af767a738b23d7943496dc38e04be" />
+              <section title="~QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html#a4586a2019e6942785e764281b961264b" />
+              <section title="boundingInterval" ref="class_qwt_polar_spectrogram.html#a0e1256fa5f44c43bb5d05e125d8bb27b" />
+              <section title="colorMap" ref="class_qwt_polar_spectrogram.html#a40a0a5e542d69b272eaf66f461b7a8ab" />
+              <section title="data" ref="class_qwt_polar_spectrogram.html#a2a3c012282a8367f8a593253d425a34c" />
+              <section title="draw" ref="class_qwt_polar_spectrogram.html#a71bebc6043c31478ee41532daeb51d83" />
+              <section title="renderImage" ref="class_qwt_polar_spectrogram.html#a6664dc1913fd42c56b95fe479d0ae7e5" />
+              <section title="renderTile" ref="class_qwt_polar_spectrogram.html#a2e1a0c47c1ffb3406fe2d2ef8842db10" />
+              <section title="rtti" ref="class_qwt_polar_spectrogram.html#a50d7234e691d3194602cb48845233609" />
+              <section title="setColorMap" ref="class_qwt_polar_spectrogram.html#a67b139ab25609fedd703e25b65ffe524" />
+              <section title="setData" ref="class_qwt_polar_spectrogram.html#a37b631a8deea881f5a5b526810f5f131" />
+              <section title="setPaintAttribute" ref="class_qwt_polar_spectrogram.html#ab18845ab247ca1f1020a6c7e9cb9f666" />
+              <section title="testPaintAttribute" ref="class_qwt_polar_spectrogram.html#a41f00412730bd204d0249e22e53da5f8" />
+            </section>
+          </section>
+          <section title="Class Index" ref="classes.html" />
+          <section title="Class Hierarchy" ref="hierarchy.html">
+            <section title="QFrame">
+              <section title="QwtPolarCanvas" ref="class_qwt_polar_canvas.html" />
+              <section title="QwtPolarPlot" ref="class_qwt_polar_plot.html" />
+            </section>
+            <section title="QObject">
+              <section title="QwtPolarRenderer" ref="class_qwt_polar_renderer.html" />
+            </section>
+            <section title="QwtCurveFitter">
+              <section title="QwtPolarFitter" ref="class_qwt_polar_fitter.html" />
+            </section>
+            <section title="QwtMagnifier">
+              <section title="QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html" />
+            </section>
+            <section title="QwtPanner">
+              <section title="QwtPolarPanner" ref="class_qwt_polar_panner.html" />
+            </section>
+            <section title="QwtPicker">
+              <section title="QwtPolarPicker" ref="class_qwt_polar_picker.html" />
+            </section>
+            <section title="QwtPolarItem" ref="class_qwt_polar_item.html">
+              <section title="QwtPolarCurve" ref="class_qwt_polar_curve.html" />
+              <section title="QwtPolarGrid" ref="class_qwt_polar_grid.html" />
+              <section title="QwtPolarMarker" ref="class_qwt_polar_marker.html" />
+              <section title="QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html" />
+            </section>
+            <section title="QwtPolarItemDict" ref="class_qwt_polar_item_dict.html">
+              <section title="QwtPolarPlot" ref="class_qwt_polar_plot.html" />
+            </section>
+            <section title="QwtPolarLayout" ref="class_qwt_polar_layout.html" />
+          </section>
+          <section title="Class Members" ref="functions.html">
+            <section title="All" ref="functions.html">
+              <section title="a" ref="functions.html" />
+              <section title="b" ref="functions_0x62.html" />
+              <section title="c" ref="functions_0x63.html" />
+              <section title="d" ref="functions_0x64.html" />
+              <section title="e" ref="functions_0x65.html" />
+              <section title="f" ref="functions_0x66.html" />
+              <section title="g" ref="functions_0x67.html" />
+              <section title="h" ref="functions_0x68.html" />
+              <section title="i" ref="functions_0x69.html" />
+              <section title="l" ref="functions_0x6c.html" />
+              <section title="m" ref="functions_0x6d.html" />
+              <section title="n" ref="functions_0x6e.html" />
+              <section title="o" ref="functions_0x6f.html" />
+              <section title="p" ref="functions_0x70.html" />
+              <section title="r" ref="functions_0x72.html" />
+              <section title="s" ref="functions_0x73.html" />
+              <section title="t" ref="functions_0x74.html" />
+              <section title="u" ref="functions_0x75.html" />
+              <section title="v" ref="functions_0x76.html" />
+              <section title="w" ref="functions_0x77.html" />
+              <section title="z" ref="functions_0x7a.html" />
+              <section title="~" ref="functions_0x7e.html" />
+            </section>
+            <section title="Functions" ref="functions_func.html">
+              <section title="a" ref="functions_func.html" />
+              <section title="b" ref="functions_func_0x62.html" />
+              <section title="c" ref="functions_func_0x63.html" />
+              <section title="d" ref="functions_func_0x64.html" />
+              <section title="e" ref="functions_func_0x65.html" />
+              <section title="f" ref="functions_func_0x66.html" />
+              <section title="g" ref="functions_func_0x67.html" />
+              <section title="h" ref="functions_func_0x68.html" />
+              <section title="i" ref="functions_func_0x69.html" />
+              <section title="l" ref="functions_func_0x6c.html" />
+              <section title="m" ref="functions_func_0x6d.html" />
+              <section title="p" ref="functions_func_0x70.html" />
+              <section title="r" ref="functions_func_0x72.html" />
+              <section title="s" ref="functions_func_0x73.html" />
+              <section title="t" ref="functions_func_0x74.html" />
+              <section title="u" ref="functions_func_0x75.html" />
+              <section title="v" ref="functions_func_0x76.html" />
+              <section title="w" ref="functions_func_0x77.html" />
+              <section title="z" ref="functions_func_0x7a.html" />
+              <section title="~" ref="functions_func_0x7e.html" />
+            </section>
+            <section title="Typedefs" ref="functions_type.html" />
+            <section title="Enumerations" ref="functions_enum.html" />
+            <section title="Enumerator" ref="functions_eval.html" />
+          </section>
+        </section>
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="Qwt License, Version 1.0" id="Qwt License, Version 1.0" ref="qwtlicense.html" />
+      <keyword name="QwtPolarCanvas" id="QwtPolarCanvas" ref="class_qwt_polar_canvas.html" />
+      <keyword name="PaintAttributes" id="QwtPolarCanvas::PaintAttributes" ref="class_qwt_polar_canvas.html#ab66cc45b0cc79958d180be66e08c8202" />
+      <keyword name="QwtPolarCanvas" id="QwtPolarCanvas::QwtPolarCanvas" ref="class_qwt_polar_canvas.html#aa5f39d822a71e056b4735da113a0a4e5" />
+      <keyword name="~QwtPolarCanvas" id="QwtPolarCanvas::~QwtPolarCanvas" ref="class_qwt_polar_canvas.html#aaf0b8442dc8b32353d7705c9dcc28bc0" />
+      <keyword name="plot" id="QwtPolarCanvas::plot" ref="class_qwt_polar_canvas.html#a2f3dc31a8c28390e3a7ec13cab60250e" />
+      <keyword name="plot" id="QwtPolarCanvas::plot" ref="class_qwt_polar_canvas.html#a5dbeb0e16e24c256825a51a1a92d4162" />
+      <keyword name="setPaintAttribute" id="QwtPolarCanvas::setPaintAttribute" ref="class_qwt_polar_canvas.html#ae7010120b9f6905bd31f748775c80b6c" />
+      <keyword name="testPaintAttribute" id="QwtPolarCanvas::testPaintAttribute" ref="class_qwt_polar_canvas.html#aaf6c538d5c26945df4dbbc2121f4d859" />
+      <keyword name="backingStore" id="QwtPolarCanvas::backingStore" ref="class_qwt_polar_canvas.html#a8e40bb677f005bd25c62e65e3e4c8282" />
+      <keyword name="invalidateBackingStore" id="QwtPolarCanvas::invalidateBackingStore" ref="class_qwt_polar_canvas.html#a4afef808e10242a83a26f4b856aa4cef" />
+      <keyword name="invTransform" id="QwtPolarCanvas::invTransform" ref="class_qwt_polar_canvas.html#ae96812128c317a1ab4cd13df0f94bbf3" />
+      <keyword name="transform" id="QwtPolarCanvas::transform" ref="class_qwt_polar_canvas.html#a2c2d37fcec08147c1ef2e862dd3edbee" />
+      <keyword name="paintEvent" id="QwtPolarCanvas::paintEvent" ref="class_qwt_polar_canvas.html#ab8718969291c05c56050f9500da212ad" />
+      <keyword name="resizeEvent" id="QwtPolarCanvas::resizeEvent" ref="class_qwt_polar_canvas.html#aa3418bc87d68888ac73c70e52a476c27" />
+      <keyword name="BackingStore" id="QwtPolarCanvas::BackingStore" ref="class_qwt_polar_canvas.html#a371f88face8daaac6cd556e5f7596613ab8c07aaa7ba2c8833fd4d0cfd9955829" />
+      <keyword name="QwtPolarCurve" id="QwtPolarCurve" ref="class_qwt_polar_curve.html" />
+      <keyword name="LegendAttributes" id="QwtPolarCurve::LegendAttributes" ref="class_qwt_polar_curve.html#ac52b0fb483eb1114bc09328634faf641" />
+      <keyword name="ItemAttributes" id="QwtPolarItem::ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+      <keyword name="RenderHints" id="QwtPolarItem::RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+      <keyword name="QwtPolarCurve" id="QwtPolarCurve::QwtPolarCurve" ref="class_qwt_polar_curve.html#ab1443252c40c6c7d27e11b701f0c4c91" />
+      <keyword name="QwtPolarCurve" id="QwtPolarCurve::QwtPolarCurve" ref="class_qwt_polar_curve.html#a5047f83adf6bf66a8942e536834e177b" />
+      <keyword name="QwtPolarCurve" id="QwtPolarCurve::QwtPolarCurve" ref="class_qwt_polar_curve.html#a5015a32500062be7c7c2c4668fc7294f" />
+      <keyword name="~QwtPolarCurve" id="QwtPolarCurve::~QwtPolarCurve" ref="class_qwt_polar_curve.html#af99dc41ede43167ac8b28c287158b00a" />
+      <keyword name="rtti" id="QwtPolarCurve::rtti" ref="class_qwt_polar_curve.html#aabc3a59834769fb9a23fc7115c64abbe" />
+      <keyword name="setLegendAttribute" id="QwtPolarCurve::setLegendAttribute" ref="class_qwt_polar_curve.html#aa3bca82242e6faaabe53a203002259f3" />
+      <keyword name="testLegendAttribute" id="QwtPolarCurve::testLegendAttribute" ref="class_qwt_polar_curve.html#aadfb76af04f70b0d94beb8e8eaffb336" />
+      <keyword name="setData" id="QwtPolarCurve::setData" ref="class_qwt_polar_curve.html#af331933dc8508cf183b95be73931d84e" />
+      <keyword name="data" id="QwtPolarCurve::data" ref="class_qwt_polar_curve.html#aa9f53530966ab36b2b5f03db9e8ab537" />
+      <keyword name="dataSize" id="QwtPolarCurve::dataSize" ref="class_qwt_polar_curve.html#a42bec3abf4ad3f94a7382e3c328f57ba" />
+      <keyword name="sample" id="QwtPolarCurve::sample" ref="class_qwt_polar_curve.html#a86d1ad7786eeece685ef1122a35fd729" />
+      <keyword name="setPen" id="QwtPolarCurve::setPen" ref="class_qwt_polar_curve.html#a5f649b65305875ba46d6ca12b5104ac0" />
+      <keyword name="pen" id="QwtPolarCurve::pen" ref="class_qwt_polar_curve.html#a58300578d5a43c7af918f84c009aebb4" />
+      <keyword name="setStyle" id="QwtPolarCurve::setStyle" ref="class_qwt_polar_curve.html#a409832d66cc708e9d04cba21f4cbd504" />
+      <keyword name="style" id="QwtPolarCurve::style" ref="class_qwt_polar_curve.html#a7b5a814ee07bc1ce865d9c59b0314aa2" />
+      <keyword name="setSymbol" id="QwtPolarCurve::setSymbol" ref="class_qwt_polar_curve.html#a7e970eaf63fed27fb0d346905bd526f6" />
+      <keyword name="symbol" id="QwtPolarCurve::symbol" ref="class_qwt_polar_curve.html#a42daf23c111469bd2478bbd9f70b7c92" />
+      <keyword name="setCurveFitter" id="QwtPolarCurve::setCurveFitter" ref="class_qwt_polar_curve.html#abcd7ce0a4b6dbfe470bce5370cdffb7c" />
+      <keyword name="curveFitter" id="QwtPolarCurve::curveFitter" ref="class_qwt_polar_curve.html#ae5ba7a53c4440b7102804bb48df54e10" />
+      <keyword name="draw" id="QwtPolarCurve::draw" ref="class_qwt_polar_curve.html#a001f01dc529951aaf2179ddb34d263eb" />
+      <keyword name="draw" id="QwtPolarCurve::draw" ref="class_qwt_polar_curve.html#a11788ce808135b0746b82390624b90f0" />
+      <keyword name="boundingInterval" id="QwtPolarCurve::boundingInterval" ref="class_qwt_polar_curve.html#ae43e2e9454d340adf4504e3db15cdcd0" />
+      <keyword name="legendIcon" id="QwtPolarCurve::legendIcon" ref="class_qwt_polar_curve.html#aca19e86b2f57d9968da0dbca825b0d1f" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem::QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+      <keyword name="~QwtPolarItem" id="QwtPolarItem::~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+      <keyword name="attach" id="QwtPolarItem::attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+      <keyword name="detach" id="QwtPolarItem::detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+      <keyword name="plot" id="QwtPolarItem::plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+      <keyword name="title" id="QwtPolarItem::title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+      <keyword name="setItemAttribute" id="QwtPolarItem::setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+      <keyword name="testItemAttribute" id="QwtPolarItem::testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+      <keyword name="setRenderHint" id="QwtPolarItem::setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+      <keyword name="testRenderHint" id="QwtPolarItem::testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+      <keyword name="setRenderThreadCount" id="QwtPolarItem::setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+      <keyword name="renderThreadCount" id="QwtPolarItem::renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+      <keyword name="z" id="QwtPolarItem::z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+      <keyword name="setZ" id="QwtPolarItem::setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+      <keyword name="show" id="QwtPolarItem::show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+      <keyword name="hide" id="QwtPolarItem::hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+      <keyword name="setVisible" id="QwtPolarItem::setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+      <keyword name="isVisible" id="QwtPolarItem::isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+      <keyword name="itemChanged" id="QwtPolarItem::itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+      <keyword name="legendChanged" id="QwtPolarItem::legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+      <keyword name="updateScaleDiv" id="QwtPolarItem::updateScaleDiv" ref="class_qwt_polar_item.html#a459d264543f40e9a41de90bc486b0f1f" />
+      <keyword name="marginHint" id="QwtPolarItem::marginHint" ref="class_qwt_polar_item.html#ae20a3bbecbae30cd8142f44aaa71ccaf" />
+      <keyword name="setLegendIconSize" id="QwtPolarItem::setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+      <keyword name="legendIconSize" id="QwtPolarItem::legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+      <keyword name="legendData" id="QwtPolarItem::legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+      <keyword name="init" id="QwtPolarCurve::init" ref="class_qwt_polar_curve.html#ad99ae37d57853661df31aa18ff4bc4fc" />
+      <keyword name="drawCurve" id="QwtPolarCurve::drawCurve" ref="class_qwt_polar_curve.html#a7e10d7e657df6837ffc6f63c1695c3f8" />
+      <keyword name="drawSymbols" id="QwtPolarCurve::drawSymbols" ref="class_qwt_polar_curve.html#a59f6e8de3a47ea4100212635d97b17e6" />
+      <keyword name="drawLines" id="QwtPolarCurve::drawLines" ref="class_qwt_polar_curve.html#a47037ce826144afa0ba824acd0f04efa" />
+      <keyword name="NoCurve" id="QwtPolarCurve::NoCurve" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6a98a2084e94b848166c92636432e1c88e" />
+      <keyword name="Lines" id="QwtPolarCurve::Lines" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6ae800b606b10d7eb1dab59631c8b45358" />
+      <keyword name="UserCurve" id="QwtPolarCurve::UserCurve" ref="class_qwt_polar_curve.html#a6c42c231ee7db4995d90e486737508a6a1be5e3093436495726f83f4c1e99c427" />
+      <keyword name="LegendShowLine" id="QwtPolarCurve::LegendShowLine" ref="class_qwt_polar_curve.html#a48eb3748b6a9b6533386c09fe27f8e89a134996220124389ab810cc09fc437ef1" />
+      <keyword name="LegendShowSymbol" id="QwtPolarCurve::LegendShowSymbol" ref="class_qwt_polar_curve.html#a48eb3748b6a9b6533386c09fe27f8e89aacac949c4679b0ff6cc05650d0da174d" />
+      <keyword name="QwtPolarFitter" id="QwtPolarFitter" ref="class_qwt_polar_fitter.html" />
+      <keyword name="QwtPolarFitter" id="QwtPolarFitter::QwtPolarFitter" ref="class_qwt_polar_fitter.html#a88d0ab40691bab03bd52399bce35f46b" />
+      <keyword name="~QwtPolarFitter" id="QwtPolarFitter::~QwtPolarFitter" ref="class_qwt_polar_fitter.html#af44b4b5f62393add4ea35b11b6723c12" />
+      <keyword name="setStepCount" id="QwtPolarFitter::setStepCount" ref="class_qwt_polar_fitter.html#a3250f0d3fe6e7a658ce46920fe7efcab" />
+      <keyword name="stepCount" id="QwtPolarFitter::stepCount" ref="class_qwt_polar_fitter.html#a8e44f8c47ba4c4d35860d2723dfb05ce" />
+      <keyword name="fitCurve" id="QwtPolarFitter::fitCurve" ref="class_qwt_polar_fitter.html#a564aaaf5efa7b075175336b3ced50c30" />
+      <keyword name="QwtPolarGrid" id="QwtPolarGrid" ref="class_qwt_polar_grid.html" />
+      <keyword name="DisplayFlags" id="QwtPolarGrid::DisplayFlags" ref="class_qwt_polar_grid.html#ae1383a75c51af0593b033a845026d1e0" />
+      <keyword name="GridAttributes" id="QwtPolarGrid::GridAttributes" ref="class_qwt_polar_grid.html#a7ffa2a7d51b72dbcee168e32e947d99f" />
+      <keyword name="ItemAttributes" id="QwtPolarItem::ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+      <keyword name="RenderHints" id="QwtPolarItem::RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+      <keyword name="QwtPolarGrid" id="QwtPolarGrid::QwtPolarGrid" ref="class_qwt_polar_grid.html#afdfbb00c19597076df15b5b07e88110f" />
+      <keyword name="~QwtPolarGrid" id="QwtPolarGrid::~QwtPolarGrid" ref="class_qwt_polar_grid.html#a2e7a8abbef8775ace90c364a60cc9baa" />
+      <keyword name="rtti" id="QwtPolarGrid::rtti" ref="class_qwt_polar_grid.html#a68286ec1cdd0d1a2c3ca051a1cb1be83" />
+      <keyword name="setDisplayFlag" id="QwtPolarGrid::setDisplayFlag" ref="class_qwt_polar_grid.html#acfbac4c25b75cb2229eb10c99a72cab2" />
+      <keyword name="testDisplayFlag" id="QwtPolarGrid::testDisplayFlag" ref="class_qwt_polar_grid.html#aac55124a5d1e3bdbed47bb69f2731fe3" />
+      <keyword name="setGridAttribute" id="QwtPolarGrid::setGridAttribute" ref="class_qwt_polar_grid.html#a11d28f181e66e8da1fd5ccfaf89f1e02" />
+      <keyword name="testGridAttribute" id="QwtPolarGrid::testGridAttribute" ref="class_qwt_polar_grid.html#a61eed24a823b250a35bf19132af332e8" />
+      <keyword name="showGrid" id="QwtPolarGrid::showGrid" ref="class_qwt_polar_grid.html#a3c21b8526cb89a1a1edc5e566a374cf9" />
+      <keyword name="isGridVisible" id="QwtPolarGrid::isGridVisible" ref="class_qwt_polar_grid.html#a8823c7371f96540199003be743c9ab85" />
+      <keyword name="showMinorGrid" id="QwtPolarGrid::showMinorGrid" ref="class_qwt_polar_grid.html#a3b2b9df8177be01976932759347a6a70" />
+      <keyword name="isMinorGridVisible" id="QwtPolarGrid::isMinorGridVisible" ref="class_qwt_polar_grid.html#a119fc9e572968dc5156bc544545ac134" />
+      <keyword name="showAxis" id="QwtPolarGrid::showAxis" ref="class_qwt_polar_grid.html#ab6f1f400f104c938ea6032c5eb7f8cf4" />
+      <keyword name="isAxisVisible" id="QwtPolarGrid::isAxisVisible" ref="class_qwt_polar_grid.html#aa4074d98c30f5a7c064f59147a1a2bf3" />
+      <keyword name="setPen" id="QwtPolarGrid::setPen" ref="class_qwt_polar_grid.html#a61054e5b3a1d9a2881a55862c7da08aa" />
+      <keyword name="setFont" id="QwtPolarGrid::setFont" ref="class_qwt_polar_grid.html#abc0cf0b2b3b2e598a1cbfe653b649253" />
+      <keyword name="setMajorGridPen" id="QwtPolarGrid::setMajorGridPen" ref="class_qwt_polar_grid.html#abfc2f5a33722a7e3f9efe3161f5e4d72" />
+      <keyword name="setMajorGridPen" id="QwtPolarGrid::setMajorGridPen" ref="class_qwt_polar_grid.html#a4a6f65d32ea82684e47be0ea3cb3d6ce" />
+      <keyword name="majorGridPen" id="QwtPolarGrid::majorGridPen" ref="class_qwt_polar_grid.html#a483eeaa36006047a8352556ee439c31c" />
+      <keyword name="setMinorGridPen" id="QwtPolarGrid::setMinorGridPen" ref="class_qwt_polar_grid.html#a3dc9a9cc4d1c9847cdd0c905053cd43e" />
+      <keyword name="setMinorGridPen" id="QwtPolarGrid::setMinorGridPen" ref="class_qwt_polar_grid.html#a17bbb4cf20e0f059e3b0837d46ca1311" />
+      <keyword name="minorGridPen" id="QwtPolarGrid::minorGridPen" ref="class_qwt_polar_grid.html#a65c1a307e4f183955506de2a5a14ef72" />
+      <keyword name="setAxisPen" id="QwtPolarGrid::setAxisPen" ref="class_qwt_polar_grid.html#aaff0703b1d70a5016e2d5e71b218589c" />
+      <keyword name="axisPen" id="QwtPolarGrid::axisPen" ref="class_qwt_polar_grid.html#ac70755a88e840542d80169be7fcbbf23" />
+      <keyword name="setAxisFont" id="QwtPolarGrid::setAxisFont" ref="class_qwt_polar_grid.html#aa9f060daabb2f6c9e260801790bfee73" />
+      <keyword name="axisFont" id="QwtPolarGrid::axisFont" ref="class_qwt_polar_grid.html#aa5a0d4d8054b1f19ee14a9df94396a58" />
+      <keyword name="setScaleDraw" id="QwtPolarGrid::setScaleDraw" ref="class_qwt_polar_grid.html#a203af948dec0f3fddd5bb3fca473b1fe" />
+      <keyword name="scaleDraw" id="QwtPolarGrid::scaleDraw" ref="class_qwt_polar_grid.html#afb12f222d16f3605e2e677f3a699d875" />
+      <keyword name="scaleDraw" id="QwtPolarGrid::scaleDraw" ref="class_qwt_polar_grid.html#a85172a85908f05c2a4f7235460937ea2" />
+      <keyword name="setAzimuthScaleDraw" id="QwtPolarGrid::setAzimuthScaleDraw" ref="class_qwt_polar_grid.html#a620a6a4195b39b106b47d2555afa3500" />
+      <keyword name="azimuthScaleDraw" id="QwtPolarGrid::azimuthScaleDraw" ref="class_qwt_polar_grid.html#a00222d832044af77b7b90fa218954103" />
+      <keyword name="azimuthScaleDraw" id="QwtPolarGrid::azimuthScaleDraw" ref="class_qwt_polar_grid.html#afc1cb431dba039c2d043581ea3cc1770" />
+      <keyword name="draw" id="QwtPolarGrid::draw" ref="class_qwt_polar_grid.html#a77d1f376e0c8a5ec8204e89e2ac3a9e2" />
+      <keyword name="updateScaleDiv" id="QwtPolarGrid::updateScaleDiv" ref="class_qwt_polar_grid.html#ade05222167f4d6f5734f9dd21983ab16" />
+      <keyword name="marginHint" id="QwtPolarGrid::marginHint" ref="class_qwt_polar_grid.html#a39ca877764c2e81619f7c086213a22bc" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem::QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+      <keyword name="~QwtPolarItem" id="QwtPolarItem::~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+      <keyword name="attach" id="QwtPolarItem::attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+      <keyword name="detach" id="QwtPolarItem::detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+      <keyword name="plot" id="QwtPolarItem::plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+      <keyword name="title" id="QwtPolarItem::title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+      <keyword name="setItemAttribute" id="QwtPolarItem::setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+      <keyword name="testItemAttribute" id="QwtPolarItem::testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+      <keyword name="setRenderHint" id="QwtPolarItem::setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+      <keyword name="testRenderHint" id="QwtPolarItem::testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+      <keyword name="setRenderThreadCount" id="QwtPolarItem::setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+      <keyword name="renderThreadCount" id="QwtPolarItem::renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+      <keyword name="z" id="QwtPolarItem::z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+      <keyword name="setZ" id="QwtPolarItem::setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+      <keyword name="show" id="QwtPolarItem::show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+      <keyword name="hide" id="QwtPolarItem::hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+      <keyword name="setVisible" id="QwtPolarItem::setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+      <keyword name="isVisible" id="QwtPolarItem::isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+      <keyword name="itemChanged" id="QwtPolarItem::itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+      <keyword name="legendChanged" id="QwtPolarItem::legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+      <keyword name="boundingInterval" id="QwtPolarItem::boundingInterval" ref="class_qwt_polar_item.html#a363ebecfec7301fbc2ed1fd548044cb6" />
+      <keyword name="setLegendIconSize" id="QwtPolarItem::setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+      <keyword name="legendIconSize" id="QwtPolarItem::legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+      <keyword name="legendData" id="QwtPolarItem::legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+      <keyword name="legendIcon" id="QwtPolarItem::legendIcon" ref="class_qwt_polar_item.html#a60709288c71e7e96ac158eb422e64fd2" />
+      <keyword name="drawRays" id="QwtPolarGrid::drawRays" ref="class_qwt_polar_grid.html#aaa246d60c90d13fc2a6f1cf3e4bb6f41" />
+      <keyword name="drawCircles" id="QwtPolarGrid::drawCircles" ref="class_qwt_polar_grid.html#a652eb3927accedb94e3aeda0029b0a7c" />
+      <keyword name="drawAxis" id="QwtPolarGrid::drawAxis" ref="class_qwt_polar_grid.html#a01f5a873424063c81b484371e7fe97c6" />
+      <keyword name="SmartOriginLabel" id="QwtPolarGrid::SmartOriginLabel" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055ad74eae987acba9af0528de510b5607cb" />
+      <keyword name="HideMaxRadiusLabel" id="QwtPolarGrid::HideMaxRadiusLabel" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055aa771cd2d590277b2b154eae6955796c2" />
+      <keyword name="ClipAxisBackground" id="QwtPolarGrid::ClipAxisBackground" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055a79cafc8f8f6d5690d484da2977e2167c" />
+      <keyword name="SmartScaleDraw" id="QwtPolarGrid::SmartScaleDraw" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055aabd6328294611636aa2d0396b49ab3b6" />
+      <keyword name="ClipGridLines" id="QwtPolarGrid::ClipGridLines" ref="class_qwt_polar_grid.html#acd8e9bcbe376c6d7f3a9b7f5d3500055ae6be534e43d8ee4924cdcdba9d2fe2e7" />
+      <keyword name="AutoScaling" id="QwtPolarGrid::AutoScaling" ref="class_qwt_polar_grid.html#a09b4892bfd7f5889aa5e2103ed934fdfa18e237f72b8a2d181f3e0cabafb8919c" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem" ref="class_qwt_polar_item.html" />
+      <keyword name="ItemAttributes" id="QwtPolarItem::ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+      <keyword name="RenderHints" id="QwtPolarItem::RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem::QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+      <keyword name="~QwtPolarItem" id="QwtPolarItem::~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+      <keyword name="attach" id="QwtPolarItem::attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+      <keyword name="detach" id="QwtPolarItem::detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+      <keyword name="plot" id="QwtPolarItem::plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+      <keyword name="title" id="QwtPolarItem::title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+      <keyword name="rtti" id="QwtPolarItem::rtti" ref="class_qwt_polar_item.html#ad40d202e182f572603a682ccab79d7ac" />
+      <keyword name="setItemAttribute" id="QwtPolarItem::setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+      <keyword name="testItemAttribute" id="QwtPolarItem::testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+      <keyword name="setRenderHint" id="QwtPolarItem::setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+      <keyword name="testRenderHint" id="QwtPolarItem::testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+      <keyword name="setRenderThreadCount" id="QwtPolarItem::setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+      <keyword name="renderThreadCount" id="QwtPolarItem::renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+      <keyword name="z" id="QwtPolarItem::z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+      <keyword name="setZ" id="QwtPolarItem::setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+      <keyword name="show" id="QwtPolarItem::show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+      <keyword name="hide" id="QwtPolarItem::hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+      <keyword name="setVisible" id="QwtPolarItem::setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+      <keyword name="isVisible" id="QwtPolarItem::isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+      <keyword name="itemChanged" id="QwtPolarItem::itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+      <keyword name="legendChanged" id="QwtPolarItem::legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+      <keyword name="draw" id="QwtPolarItem::draw" ref="class_qwt_polar_item.html#a0493eb028a85753735073754be269e4d" />
+      <keyword name="boundingInterval" id="QwtPolarItem::boundingInterval" ref="class_qwt_polar_item.html#a363ebecfec7301fbc2ed1fd548044cb6" />
+      <keyword name="updateScaleDiv" id="QwtPolarItem::updateScaleDiv" ref="class_qwt_polar_item.html#a459d264543f40e9a41de90bc486b0f1f" />
+      <keyword name="marginHint" id="QwtPolarItem::marginHint" ref="class_qwt_polar_item.html#ae20a3bbecbae30cd8142f44aaa71ccaf" />
+      <keyword name="setLegendIconSize" id="QwtPolarItem::setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+      <keyword name="legendIconSize" id="QwtPolarItem::legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+      <keyword name="legendData" id="QwtPolarItem::legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+      <keyword name="legendIcon" id="QwtPolarItem::legendIcon" ref="class_qwt_polar_item.html#a60709288c71e7e96ac158eb422e64fd2" />
+      <keyword name="Legend" id="QwtPolarItem::Legend" ref="class_qwt_polar_item.html#a3dfa4f39bc1ac99b0371b4938abe6ad6a6f900569b4e72f925ea64bed4d149d5e" />
+      <keyword name="AutoScale" id="QwtPolarItem::AutoScale" ref="class_qwt_polar_item.html#a3dfa4f39bc1ac99b0371b4938abe6ad6a7f9ee77f4ec3170c4c7255bf4bd4399c" />
+      <keyword name="RenderAntialiased" id="QwtPolarItem::RenderAntialiased" ref="class_qwt_polar_item.html#aafc969899461b4fb481396cd347614edaeb386d24afe0bb558475d66d794f865f" />
+      <keyword name="Rtti_PolarItem" id="QwtPolarItem::Rtti_PolarItem" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dafcfda7285dc39cce71850cc5a77ada5f" />
+      <keyword name="Rtti_PolarGrid" id="QwtPolarItem::Rtti_PolarGrid" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dac340359909c847d927c733a01b439fb2" />
+      <keyword name="Rtti_PolarMarker" id="QwtPolarItem::Rtti_PolarMarker" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dab10c6fd2f1f1e9fa05eeb00100fe45c6" />
+      <keyword name="Rtti_PolarCurve" id="QwtPolarItem::Rtti_PolarCurve" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dad2b363a80ab5fde478a4fa996908d685" />
+      <keyword name="Rtti_PolarSpectrogram" id="QwtPolarItem::Rtti_PolarSpectrogram" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4dad95b3f4515ee8f2058c633a5d2367427" />
+      <keyword name="Rtti_PolarUserItem" id="QwtPolarItem::Rtti_PolarUserItem" ref="class_qwt_polar_item.html#a6c03d774c1d089ec8603dd37879a9f4da6bfd70526ffc398e3d1a3e184d73428d" />
+      <keyword name="QwtPolarItemDict" id="QwtPolarItemDict" ref="class_qwt_polar_item_dict.html" />
+      <keyword name="QwtPolarItemDict" id="QwtPolarItemDict::QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#a9717d88ce4a23546b5a56060d86c8595" />
+      <keyword name="~QwtPolarItemDict" id="QwtPolarItemDict::~QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#aeca432e58593e41b2ca5d93035bc9ad3" />
+      <keyword name="setAutoDelete" id="QwtPolarItemDict::setAutoDelete" ref="class_qwt_polar_item_dict.html#a6c01bbae83741e723373c6ddf481661d" />
+      <keyword name="autoDelete" id="QwtPolarItemDict::autoDelete" ref="class_qwt_polar_item_dict.html#af1db02fa80ef7ddaae4536ebfd919d6f" />
+      <keyword name="itemList" id="QwtPolarItemDict::itemList" ref="class_qwt_polar_item_dict.html#a314670f759fedd4e7c8c1c83f47e274b" />
+      <keyword name="detachItems" id="QwtPolarItemDict::detachItems" ref="class_qwt_polar_item_dict.html#ac0dcbd853fc53ec5c359fb352befe500" />
+      <keyword name="insertItem" id="QwtPolarItemDict::insertItem" ref="class_qwt_polar_item_dict.html#abfd1d7fa38cfbbb60b3f70d67df5f3dd" />
+      <keyword name="removeItem" id="QwtPolarItemDict::removeItem" ref="class_qwt_polar_item_dict.html#aed3737df07b7b236115d27d69d0015f9" />
+      <keyword name="QwtPolarLayout" id="QwtPolarLayout" ref="class_qwt_polar_layout.html" />
+      <keyword name="Options" id="QwtPolarLayout::Options" ref="class_qwt_polar_layout.html#a3ecb4fa1ce6af120664826a23c23c1de" />
+      <keyword name="QwtPolarLayout" id="QwtPolarLayout::QwtPolarLayout" ref="class_qwt_polar_layout.html#a9848348288897ff46ae81adec0e7709e" />
+      <keyword name="~QwtPolarLayout" id="QwtPolarLayout::~QwtPolarLayout" ref="class_qwt_polar_layout.html#a0ff0510bfe19061bb5141e3a1f2d443d" />
+      <keyword name="setLegendPosition" id="QwtPolarLayout::setLegendPosition" ref="class_qwt_polar_layout.html#a42d727d2015fe7ac0ecd373c812359bf" />
+      <keyword name="setLegendPosition" id="QwtPolarLayout::setLegendPosition" ref="class_qwt_polar_layout.html#aeb16a4140e3b0016ed44d417bda1c8e4" />
+      <keyword name="legendPosition" id="QwtPolarLayout::legendPosition" ref="class_qwt_polar_layout.html#a0e12a3da6cf6ec115be3f2ea07b646e7" />
+      <keyword name="setLegendRatio" id="QwtPolarLayout::setLegendRatio" ref="class_qwt_polar_layout.html#a2be38703cdcc2ff6a4b20a09b6295897" />
+      <keyword name="legendRatio" id="QwtPolarLayout::legendRatio" ref="class_qwt_polar_layout.html#ae3455dbe7f10bc656ca6dae58cc37d8c" />
+      <keyword name="activate" id="QwtPolarLayout::activate" ref="class_qwt_polar_layout.html#ace67c815318ea82df12d132cde050c62" />
+      <keyword name="invalidate" id="QwtPolarLayout::invalidate" ref="class_qwt_polar_layout.html#a4abf2bf66f1c89901f0c253e66cc8a23" />
+      <keyword name="titleRect" id="QwtPolarLayout::titleRect" ref="class_qwt_polar_layout.html#a5238180021579c5c5f74dea54191d6ea" />
+      <keyword name="legendRect" id="QwtPolarLayout::legendRect" ref="class_qwt_polar_layout.html#a95eb411bc2065282887c34df95e39784" />
+      <keyword name="canvasRect" id="QwtPolarLayout::canvasRect" ref="class_qwt_polar_layout.html#a8b84214c5c930b1d211b5abafe58f3ae" />
+      <keyword name="layoutLegend" id="QwtPolarLayout::layoutLegend" ref="class_qwt_polar_layout.html#a0d1ef3e1dcb3137be12a3450b6d4ad18" />
+      <keyword name="IgnoreScrollbars" id="QwtPolarLayout::IgnoreScrollbars" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60a8a7a635824e491b226168b111c9a0d02" />
+      <keyword name="IgnoreFrames" id="QwtPolarLayout::IgnoreFrames" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60ad8271c6678339e4437e99e176a4b1083" />
+      <keyword name="IgnoreTitle" id="QwtPolarLayout::IgnoreTitle" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60acf042507d0b592c5abe6cf38bda89c3d" />
+      <keyword name="IgnoreLegend" id="QwtPolarLayout::IgnoreLegend" ref="class_qwt_polar_layout.html#abb9ffb4d2547fc48b37c89c380cb5c60a31b6d1acf6a8a48e9535146c82c0f491" />
+      <keyword name="QwtPolarMagnifier" id="QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html" />
+      <keyword name="QwtPolarMagnifier" id="QwtPolarMagnifier::QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html#ae18757a8ee2be73c4cf264720cb37d18" />
+      <keyword name="~QwtPolarMagnifier" id="QwtPolarMagnifier::~QwtPolarMagnifier" ref="class_qwt_polar_magnifier.html#ae8e07b7b25186ef3db390f2792e960d5" />
+      <keyword name="setUnzoomKey" id="QwtPolarMagnifier::setUnzoomKey" ref="class_qwt_polar_magnifier.html#a87548a332156609548d036bce63239cf" />
+      <keyword name="getUnzoomKey" id="QwtPolarMagnifier::getUnzoomKey" ref="class_qwt_polar_magnifier.html#a6a68d42d2b1d56576408f07dbb197f32" />
+      <keyword name="plot" id="QwtPolarMagnifier::plot" ref="class_qwt_polar_magnifier.html#aabb702a524ca685d410005003c6fdf52" />
+      <keyword name="plot" id="QwtPolarMagnifier::plot" ref="class_qwt_polar_magnifier.html#a183034e5548f07d71e46984c1b5591fb" />
+      <keyword name="canvas" id="QwtPolarMagnifier::canvas" ref="class_qwt_polar_magnifier.html#ab7542ea6d40639e29fd5e802220922eb" />
+      <keyword name="canvas" id="QwtPolarMagnifier::canvas" ref="class_qwt_polar_magnifier.html#a8f27d27d30efeb717daea14d8d9228f9" />
+      <keyword name="rescale" id="QwtPolarMagnifier::rescale" ref="class_qwt_polar_magnifier.html#a5baa0adfe77369414a52941d4b894b7f" />
+      <keyword name="unzoom" id="QwtPolarMagnifier::unzoom" ref="class_qwt_polar_magnifier.html#a7785d799a0fd09225baaefaa36de9671" />
+      <keyword name="widgetKeyPressEvent" id="QwtPolarMagnifier::widgetKeyPressEvent" ref="class_qwt_polar_magnifier.html#a5276d05e09936f608d6e7d06d5f58ace" />
+      <keyword name="QwtPolarMarker" id="QwtPolarMarker" ref="class_qwt_polar_marker.html" />
+      <keyword name="QwtPolarMarker" id="QwtPolarMarker::QwtPolarMarker" ref="class_qwt_polar_marker.html#a88c2659eeab01c40bb8b4f4b4b4f01cd" />
+      <keyword name="~QwtPolarMarker" id="QwtPolarMarker::~QwtPolarMarker" ref="class_qwt_polar_marker.html#a059123939c2d477e8e09fa7badb56679" />
+      <keyword name="rtti" id="QwtPolarMarker::rtti" ref="class_qwt_polar_marker.html#a118ca275cc88207b745b99e5d9c7a1f9" />
+      <keyword name="setPosition" id="QwtPolarMarker::setPosition" ref="class_qwt_polar_marker.html#a6f419a2c80865b12f57200f59f1eeb64" />
+      <keyword name="position" id="QwtPolarMarker::position" ref="class_qwt_polar_marker.html#a016894c55e8fb7ee4389aec90867a172" />
+      <keyword name="setSymbol" id="QwtPolarMarker::setSymbol" ref="class_qwt_polar_marker.html#a0a416aa96c69f57d24a5f4d2021dc501" />
+      <keyword name="symbol" id="QwtPolarMarker::symbol" ref="class_qwt_polar_marker.html#aa2eea58f77d02395315b1099a27c81ee" />
+      <keyword name="setLabel" id="QwtPolarMarker::setLabel" ref="class_qwt_polar_marker.html#a215881a4b8883ecc2e2f7fa2ba6d822d" />
+      <keyword name="label" id="QwtPolarMarker::label" ref="class_qwt_polar_marker.html#ae89c054d13fa9cc6d112a6d5dc15711b" />
+      <keyword name="setLabelAlignment" id="QwtPolarMarker::setLabelAlignment" ref="class_qwt_polar_marker.html#a09f72cfe702be202dcb0fbca2c93eb31" />
+      <keyword name="labelAlignment" id="QwtPolarMarker::labelAlignment" ref="class_qwt_polar_marker.html#af33273c53b6d0a5de3a4f2a19cd9b78a" />
+      <keyword name="draw" id="QwtPolarMarker::draw" ref="class_qwt_polar_marker.html#a6e0ff07210a36bc5e8bb706759ac8f70" />
+      <keyword name="boundingInterval" id="QwtPolarMarker::boundingInterval" ref="class_qwt_polar_marker.html#abf816c0815284945268f24e8f2d8216b" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem::QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+      <keyword name="~QwtPolarItem" id="QwtPolarItem::~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+      <keyword name="attach" id="QwtPolarItem::attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+      <keyword name="detach" id="QwtPolarItem::detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+      <keyword name="plot" id="QwtPolarItem::plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+      <keyword name="title" id="QwtPolarItem::title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+      <keyword name="setItemAttribute" id="QwtPolarItem::setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+      <keyword name="testItemAttribute" id="QwtPolarItem::testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+      <keyword name="setRenderHint" id="QwtPolarItem::setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+      <keyword name="testRenderHint" id="QwtPolarItem::testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+      <keyword name="setRenderThreadCount" id="QwtPolarItem::setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+      <keyword name="renderThreadCount" id="QwtPolarItem::renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+      <keyword name="z" id="QwtPolarItem::z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+      <keyword name="setZ" id="QwtPolarItem::setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+      <keyword name="show" id="QwtPolarItem::show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+      <keyword name="hide" id="QwtPolarItem::hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+      <keyword name="setVisible" id="QwtPolarItem::setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+      <keyword name="isVisible" id="QwtPolarItem::isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+      <keyword name="itemChanged" id="QwtPolarItem::itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+      <keyword name="legendChanged" id="QwtPolarItem::legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+      <keyword name="updateScaleDiv" id="QwtPolarItem::updateScaleDiv" ref="class_qwt_polar_item.html#a459d264543f40e9a41de90bc486b0f1f" />
+      <keyword name="marginHint" id="QwtPolarItem::marginHint" ref="class_qwt_polar_item.html#ae20a3bbecbae30cd8142f44aaa71ccaf" />
+      <keyword name="setLegendIconSize" id="QwtPolarItem::setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+      <keyword name="legendIconSize" id="QwtPolarItem::legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+      <keyword name="legendData" id="QwtPolarItem::legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+      <keyword name="legendIcon" id="QwtPolarItem::legendIcon" ref="class_qwt_polar_item.html#a60709288c71e7e96ac158eb422e64fd2" />
+      <keyword name="ItemAttributes" id="QwtPolarItem::ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+      <keyword name="RenderHints" id="QwtPolarItem::RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+      <keyword name="QwtPolarPanner" id="QwtPolarPanner" ref="class_qwt_polar_panner.html" />
+      <keyword name="QwtPolarPanner" id="QwtPolarPanner::QwtPolarPanner" ref="class_qwt_polar_panner.html#ab05222bd343f9b989d3ab2b0146d9d1d" />
+      <keyword name="~QwtPolarPanner" id="QwtPolarPanner::~QwtPolarPanner" ref="class_qwt_polar_panner.html#a2e32d9b9d402ffe7b3c9b58eb3ca5c54" />
+      <keyword name="plot" id="QwtPolarPanner::plot" ref="class_qwt_polar_panner.html#ad5e6f988efb71e9d6e0926ddff7bff35" />
+      <keyword name="plot" id="QwtPolarPanner::plot" ref="class_qwt_polar_panner.html#a29508c1dde291b4c443ce6c554fc061d" />
+      <keyword name="canvas" id="QwtPolarPanner::canvas" ref="class_qwt_polar_panner.html#a1052cdb6fcd1fb7223cf79fb1f8dc877" />
+      <keyword name="canvas" id="QwtPolarPanner::canvas" ref="class_qwt_polar_panner.html#a2ca3fb779c1020c896f4151b67791345" />
+      <keyword name="movePlot" id="QwtPolarPanner::movePlot" ref="class_qwt_polar_panner.html#ad339c9b1825b5582ba0450efd478dbdd" />
+      <keyword name="widgetMousePressEvent" id="QwtPolarPanner::widgetMousePressEvent" ref="class_qwt_polar_panner.html#a1e904467ed89354c473e228082464bc4" />
+      <keyword name="QwtPolarPicker" id="QwtPolarPicker" ref="class_qwt_polar_picker.html" />
+      <keyword name="selected" id="QwtPolarPicker::selected" ref="class_qwt_polar_picker.html#a24f5e3c132954a6cfa1d7d8dd66dd5fe" />
+      <keyword name="selected" id="QwtPolarPicker::selected" ref="class_qwt_polar_picker.html#aff83cb76c75ce31607291e84254c67a8" />
+      <keyword name="appended" id="QwtPolarPicker::appended" ref="class_qwt_polar_picker.html#acd5e12d2e87daea46199a54972e5733f" />
+      <keyword name="moved" id="QwtPolarPicker::moved" ref="class_qwt_polar_picker.html#a576017f80c82efb879f23346425428c0" />
+      <keyword name="QwtPolarPicker" id="QwtPolarPicker::QwtPolarPicker" ref="class_qwt_polar_picker.html#afba4aa9c224977ec360f11ac6dfd8ab7" />
+      <keyword name="~QwtPolarPicker" id="QwtPolarPicker::~QwtPolarPicker" ref="class_qwt_polar_picker.html#a443aa15d588e545e0c521d4fe659dfcf" />
+      <keyword name="QwtPolarPicker" id="QwtPolarPicker::QwtPolarPicker" ref="class_qwt_polar_picker.html#afd8e121e96b3e07e1bea355d684cc810" />
+      <keyword name="plot" id="QwtPolarPicker::plot" ref="class_qwt_polar_picker.html#a81d6982eee8985d66a243b8225480fbc" />
+      <keyword name="plot" id="QwtPolarPicker::plot" ref="class_qwt_polar_picker.html#aa168e0a001ffcab5a5623263e1522d9d" />
+      <keyword name="canvas" id="QwtPolarPicker::canvas" ref="class_qwt_polar_picker.html#a90fbfa9b908fa96f95e5b97b34c98673" />
+      <keyword name="canvas" id="QwtPolarPicker::canvas" ref="class_qwt_polar_picker.html#a0469869b0fc161d3595f4323a4777251" />
+      <keyword name="pickRect" id="QwtPolarPicker::pickRect" ref="class_qwt_polar_picker.html#a869fb18bb0bd520d24655d4c160972a0" />
+      <keyword name="invTransform" id="QwtPolarPicker::invTransform" ref="class_qwt_polar_picker.html#a913082d3de9c35fc50e754c088b6287a" />
+      <keyword name="trackerText" id="QwtPolarPicker::trackerText" ref="class_qwt_polar_picker.html#ab4c1102a0532cf41533681550df50726" />
+      <keyword name="trackerTextPolar" id="QwtPolarPicker::trackerTextPolar" ref="class_qwt_polar_picker.html#adfeb812be2103de5637af03a9a5677a9" />
+      <keyword name="move" id="QwtPolarPicker::move" ref="class_qwt_polar_picker.html#a6fdfe51cac45376f47043dc70f72425b" />
+      <keyword name="append" id="QwtPolarPicker::append" ref="class_qwt_polar_picker.html#a7a50b35af9bd4d86375d062e46aa024c" />
+      <keyword name="end" id="QwtPolarPicker::end" ref="class_qwt_polar_picker.html#aaea1c66152094bb589de80a2904e7314" />
+      <keyword name="QwtPolarPlot" id="QwtPolarPlot" ref="class_qwt_polar_plot.html" />
+      <keyword name="replot" id="QwtPolarPlot::replot" ref="class_qwt_polar_plot.html#a85e55f95073ed7370e601634990ac888" />
+      <keyword name="autoRefresh" id="QwtPolarPlot::autoRefresh" ref="class_qwt_polar_plot.html#a4ed94d675d589ebc25297016c062d242" />
+      <keyword name="setAzimuthOrigin" id="QwtPolarPlot::setAzimuthOrigin" ref="class_qwt_polar_plot.html#a5e24770b1b2de5271e3ecb63ea67aa81" />
+      <keyword name="itemAttached" id="QwtPolarPlot::itemAttached" ref="class_qwt_polar_plot.html#a8e53799a658c70eea88ec517cac9dfc2" />
+      <keyword name="legendDataChanged" id="QwtPolarPlot::legendDataChanged" ref="class_qwt_polar_plot.html#abbb2d09b3550c70fb9f4a4ca089a6ff3" />
+      <keyword name="layoutChanged" id="QwtPolarPlot::layoutChanged" ref="class_qwt_polar_plot.html#a0d5fe3e01744aebb6f76f969b153564a" />
+      <keyword name="QwtPolarPlot" id="QwtPolarPlot::QwtPolarPlot" ref="class_qwt_polar_plot.html#ab5c8602062f050b1a5c47445fee4395d" />
+      <keyword name="QwtPolarPlot" id="QwtPolarPlot::QwtPolarPlot" ref="class_qwt_polar_plot.html#a2ddec071ab7580975733fee0f40c6606" />
+      <keyword name="~QwtPolarPlot" id="QwtPolarPlot::~QwtPolarPlot" ref="class_qwt_polar_plot.html#a8b962b1ec76b41cdf3c96bd7ef6d76ed" />
+      <keyword name="setTitle" id="QwtPolarPlot::setTitle" ref="class_qwt_polar_plot.html#afd19f3e3e758305d50fbe59a853ed31d" />
+      <keyword name="setTitle" id="QwtPolarPlot::setTitle" ref="class_qwt_polar_plot.html#afcb7ab87dd57194e28340bf2b7d62cd8" />
+      <keyword name="title" id="QwtPolarPlot::title" ref="class_qwt_polar_plot.html#a5910808ea70fc18a6d688278c8aaa064" />
+      <keyword name="titleLabel" id="QwtPolarPlot::titleLabel" ref="class_qwt_polar_plot.html#af77f9c944fd4a32bb7ea173b75b32e0b" />
+      <keyword name="titleLabel" id="QwtPolarPlot::titleLabel" ref="class_qwt_polar_plot.html#a579615162e842f45dc9051fcbab96d3d" />
+      <keyword name="setAutoReplot" id="QwtPolarPlot::setAutoReplot" ref="class_qwt_polar_plot.html#ab129bbae133d55313ae1509598f5db82" />
+      <keyword name="autoReplot" id="QwtPolarPlot::autoReplot" ref="class_qwt_polar_plot.html#acc2a2ff1597c961bdb9a44a494243282" />
+      <keyword name="setAutoScale" id="QwtPolarPlot::setAutoScale" ref="class_qwt_polar_plot.html#ad2cab7dc3d80c028619c0852d5107494" />
+      <keyword name="hasAutoScale" id="QwtPolarPlot::hasAutoScale" ref="class_qwt_polar_plot.html#a4f8e0a7b726fddf5a3c7c2796eb41dd2" />
+      <keyword name="setScaleMaxMinor" id="QwtPolarPlot::setScaleMaxMinor" ref="class_qwt_polar_plot.html#a02f444638f5ec84c37d35b7984533298" />
+      <keyword name="scaleMaxMinor" id="QwtPolarPlot::scaleMaxMinor" ref="class_qwt_polar_plot.html#aad93563c68bc416ed02c4db8705fbed7" />
+      <keyword name="scaleMaxMajor" id="QwtPolarPlot::scaleMaxMajor" ref="class_qwt_polar_plot.html#a6c5244ac91157cb0155edea008fb44d2" />
+      <keyword name="setScaleMaxMajor" id="QwtPolarPlot::setScaleMaxMajor" ref="class_qwt_polar_plot.html#a6eb472268e07a9783d6a0cf54b5f12b3" />
+      <keyword name="scaleEngine" id="QwtPolarPlot::scaleEngine" ref="class_qwt_polar_plot.html#a6c7ea6125b86ae3d38651d939c5fd213" />
+      <keyword name="scaleEngine" id="QwtPolarPlot::scaleEngine" ref="class_qwt_polar_plot.html#a1466d72ee7f0d18072daac44877fce26" />
+      <keyword name="setScaleEngine" id="QwtPolarPlot::setScaleEngine" ref="class_qwt_polar_plot.html#aaf4cd1c3a9c26850e675ed3b112c245e" />
+      <keyword name="setScale" id="QwtPolarPlot::setScale" ref="class_qwt_polar_plot.html#a1151e6417b3e8ccacbce0865a71220cb" />
+      <keyword name="setScaleDiv" id="QwtPolarPlot::setScaleDiv" ref="class_qwt_polar_plot.html#ac9a938b4e27a078f55fda06f7c420924" />
+      <keyword name="scaleDiv" id="QwtPolarPlot::scaleDiv" ref="class_qwt_polar_plot.html#a54f8c3785f55b3bbdc07299019d93279" />
+      <keyword name="scaleDiv" id="QwtPolarPlot::scaleDiv" ref="class_qwt_polar_plot.html#a400f242db624d992cba1814a519ac287" />
+      <keyword name="scaleMap" id="QwtPolarPlot::scaleMap" ref="class_qwt_polar_plot.html#a6768fd400ebc36f2fdca9b88d389ecd7" />
+      <keyword name="scaleMap" id="QwtPolarPlot::scaleMap" ref="class_qwt_polar_plot.html#a6dd2179f92536f1d930ae5faa2bbae8f" />
+      <keyword name="updateScale" id="QwtPolarPlot::updateScale" ref="class_qwt_polar_plot.html#a970b9df01bc032ad6b028232d4bea7f1" />
+      <keyword name="azimuthOrigin" id="QwtPolarPlot::azimuthOrigin" ref="class_qwt_polar_plot.html#a9247efe9a6407d181493d43e130ed6f3" />
+      <keyword name="zoom" id="QwtPolarPlot::zoom" ref="class_qwt_polar_plot.html#a89a033c97d6301c70a5df054b5d27de9" />
+      <keyword name="unzoom" id="QwtPolarPlot::unzoom" ref="class_qwt_polar_plot.html#a43f40adc59f7acb4f609e48be2327ade" />
+      <keyword name="zoomPos" id="QwtPolarPlot::zoomPos" ref="class_qwt_polar_plot.html#a7a33bd2357bcb715d7ad8da3a9454eda" />
+      <keyword name="zoomFactor" id="QwtPolarPlot::zoomFactor" ref="class_qwt_polar_plot.html#a23b48a44ddbd6eea1385c01b46ede71c" />
+      <keyword name="canvas" id="QwtPolarPlot::canvas" ref="class_qwt_polar_plot.html#ae9ede547afe5adb405f2bf32161967cd" />
+      <keyword name="canvas" id="QwtPolarPlot::canvas" ref="class_qwt_polar_plot.html#a54da138ca95b20f7fdc00d2f64a02eff" />
+      <keyword name="setPlotBackground" id="QwtPolarPlot::setPlotBackground" ref="class_qwt_polar_plot.html#ae6956ffe638c4d9de24043608630c984" />
+      <keyword name="plotBackground" id="QwtPolarPlot::plotBackground" ref="class_qwt_polar_plot.html#a416a649fc41682a20c75f6b6c343feb0" />
+      <keyword name="drawCanvas" id="QwtPolarPlot::drawCanvas" ref="class_qwt_polar_plot.html#a1d48a6ec29d27eb27e3ccf0ec64b27e7" />
+      <keyword name="insertLegend" id="QwtPolarPlot::insertLegend" ref="class_qwt_polar_plot.html#a98b7c37bfd9af060d138bee74a82d82e" />
+      <keyword name="legend" id="QwtPolarPlot::legend" ref="class_qwt_polar_plot.html#accce9ede21cacb563d72797c12d60b3f" />
+      <keyword name="legend" id="QwtPolarPlot::legend" ref="class_qwt_polar_plot.html#a37e8c0146d62746c5fb1ebba37c3d65a" />
+      <keyword name="updateLegend" id="QwtPolarPlot::updateLegend" ref="class_qwt_polar_plot.html#ae87700c0bac8488aed5a478ab5098830" />
+      <keyword name="updateLegend" id="QwtPolarPlot::updateLegend" ref="class_qwt_polar_plot.html#ae1837c0e815161dba219a9a33e72356b" />
+      <keyword name="plotLayout" id="QwtPolarPlot::plotLayout" ref="class_qwt_polar_plot.html#a05010dfe67a2fb29d8c2313562c138eb" />
+      <keyword name="plotLayout" id="QwtPolarPlot::plotLayout" ref="class_qwt_polar_plot.html#a0ad8d93ab9b2da7bed35f7706e374b3e" />
+      <keyword name="visibleInterval" id="QwtPolarPlot::visibleInterval" ref="class_qwt_polar_plot.html#a2802694cacce9a49278d123037da1239" />
+      <keyword name="plotRect" id="QwtPolarPlot::plotRect" ref="class_qwt_polar_plot.html#a1fa8abb31a7de8cfb66266e033c128ed" />
+      <keyword name="plotRect" id="QwtPolarPlot::plotRect" ref="class_qwt_polar_plot.html#aeccebc17c7f1a636a606cf3930852feb" />
+      <keyword name="plotMarginHint" id="QwtPolarPlot::plotMarginHint" ref="class_qwt_polar_plot.html#ace171fd523e6822e8ed998794bbaa2e7" />
+      <keyword name="itemToInfo" id="QwtPolarPlot::itemToInfo" ref="class_qwt_polar_plot.html#a44b6a59554b640d48127f316f221f871" />
+      <keyword name="infoToItem" id="QwtPolarPlot::infoToItem" ref="class_qwt_polar_plot.html#a20d3f4cd3a59e16bb8cf05422678c011" />
+      <keyword name="QwtPolarItemDict" id="QwtPolarItemDict::QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#a9717d88ce4a23546b5a56060d86c8595" />
+      <keyword name="~QwtPolarItemDict" id="QwtPolarItemDict::~QwtPolarItemDict" ref="class_qwt_polar_item_dict.html#aeca432e58593e41b2ca5d93035bc9ad3" />
+      <keyword name="setAutoDelete" id="QwtPolarItemDict::setAutoDelete" ref="class_qwt_polar_item_dict.html#a6c01bbae83741e723373c6ddf481661d" />
+      <keyword name="autoDelete" id="QwtPolarItemDict::autoDelete" ref="class_qwt_polar_item_dict.html#af1db02fa80ef7ddaae4536ebfd919d6f" />
+      <keyword name="itemList" id="QwtPolarItemDict::itemList" ref="class_qwt_polar_item_dict.html#a314670f759fedd4e7c8c1c83f47e274b" />
+      <keyword name="detachItems" id="QwtPolarItemDict::detachItems" ref="class_qwt_polar_item_dict.html#ac0dcbd853fc53ec5c359fb352befe500" />
+      <keyword name="event" id="QwtPolarPlot::event" ref="class_qwt_polar_plot.html#a3532e508238c3d1f2c5fc6f5dabb17f2" />
+      <keyword name="resizeEvent" id="QwtPolarPlot::resizeEvent" ref="class_qwt_polar_plot.html#a836cf5b8b741bf83a532d2963aca2abe" />
+      <keyword name="updateLayout" id="QwtPolarPlot::updateLayout" ref="class_qwt_polar_plot.html#a71891d3c14200d157febefa035297acd" />
+      <keyword name="drawItems" id="QwtPolarPlot::drawItems" ref="class_qwt_polar_plot.html#a284c436178dc3fe96f35038da05804e2" />
+      <keyword name="insertItem" id="QwtPolarItemDict::insertItem" ref="class_qwt_polar_item_dict.html#abfd1d7fa38cfbbb60b3f70d67df5f3dd" />
+      <keyword name="removeItem" id="QwtPolarItemDict::removeItem" ref="class_qwt_polar_item_dict.html#aed3737df07b7b236115d27d69d0015f9" />
+      <keyword name="QwtPolarItem" id="QwtPolarPlot::QwtPolarItem" ref="class_qwt_polar_plot.html#a4e1135b696589dcc39bedb0b66820148" />
+      <keyword name="LeftLegend" id="QwtPolarPlot::LeftLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea5fbf30c354173cf150569516e37c4cf3" />
+      <keyword name="RightLegend" id="QwtPolarPlot::RightLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2eabf14172e3a5118071816ef98bf3704d0" />
+      <keyword name="BottomLegend" id="QwtPolarPlot::BottomLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea2385fedbe596ddb9319ca76db6afd9e7" />
+      <keyword name="TopLegend" id="QwtPolarPlot::TopLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2eaa414a0712297511a994febffaa1408f0" />
+      <keyword name="ExternalLegend" id="QwtPolarPlot::ExternalLegend" ref="class_qwt_polar_plot.html#aeb082672b319273c14f49332d8426d2ea90bc392c0e385337fa017280e9b8c410" />
+      <keyword name="QwtPolarRenderer" id="QwtPolarRenderer" ref="class_qwt_polar_renderer.html" />
+      <keyword name="QwtPolarRenderer" id="QwtPolarRenderer::QwtPolarRenderer" ref="class_qwt_polar_renderer.html#a58aa83824c90dbf1dd240a6fbf905fdf" />
+      <keyword name="~QwtPolarRenderer" id="QwtPolarRenderer::~QwtPolarRenderer" ref="class_qwt_polar_renderer.html#aa67b03290bf743cc0b102161589180d5" />
+      <keyword name="renderDocument" id="QwtPolarRenderer::renderDocument" ref="class_qwt_polar_renderer.html#a81598da0f256448708d0118e724ae08c" />
+      <keyword name="renderDocument" id="QwtPolarRenderer::renderDocument" ref="class_qwt_polar_renderer.html#a963c267b7fdf0d398a27392d87e960dd" />
+      <keyword name="renderTo" id="QwtPolarRenderer::renderTo" ref="class_qwt_polar_renderer.html#ab966c5d47e69ee1c323934a60f1a25f1" />
+      <keyword name="renderTo" id="QwtPolarRenderer::renderTo" ref="class_qwt_polar_renderer.html#a9e8d36d1975b14860ee57d3d4600c1eb" />
+      <keyword name="render" id="QwtPolarRenderer::render" ref="class_qwt_polar_renderer.html#a4e0824cda27ff507a888b7a45ea93ed6" />
+      <keyword name="exportTo" id="QwtPolarRenderer::exportTo" ref="class_qwt_polar_renderer.html#a0ede3c5f86bc2af43c49dde2ff1eeb66" />
+      <keyword name="renderTitle" id="QwtPolarRenderer::renderTitle" ref="class_qwt_polar_renderer.html#a5995838042666f63e448ffc5a3acc73f" />
+      <keyword name="renderLegend" id="QwtPolarRenderer::renderLegend" ref="class_qwt_polar_renderer.html#a21e60df1c25790b9b59f2b97b9a8af00" />
+      <keyword name="QwtPolarSpectrogram" id="QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html" />
+      <keyword name="PaintAttributes" id="QwtPolarSpectrogram::PaintAttributes" ref="class_qwt_polar_spectrogram.html#afc15ef1990ee77db8f96bc8cd760dccd" />
+      <keyword name="ItemAttributes" id="QwtPolarItem::ItemAttributes" ref="class_qwt_polar_item.html#a43550aab86bc0b1db157f379e90d4d2c" />
+      <keyword name="RenderHints" id="QwtPolarItem::RenderHints" ref="class_qwt_polar_item.html#a2f7550ff77e75a5b7c97325c5c608413" />
+      <keyword name="QwtPolarSpectrogram" id="QwtPolarSpectrogram::QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html#a109af767a738b23d7943496dc38e04be" />
+      <keyword name="~QwtPolarSpectrogram" id="QwtPolarSpectrogram::~QwtPolarSpectrogram" ref="class_qwt_polar_spectrogram.html#a4586a2019e6942785e764281b961264b" />
+      <keyword name="setData" id="QwtPolarSpectrogram::setData" ref="class_qwt_polar_spectrogram.html#a37b631a8deea881f5a5b526810f5f131" />
+      <keyword name="data" id="QwtPolarSpectrogram::data" ref="class_qwt_polar_spectrogram.html#a2a3c012282a8367f8a593253d425a34c" />
+      <keyword name="setColorMap" id="QwtPolarSpectrogram::setColorMap" ref="class_qwt_polar_spectrogram.html#a67b139ab25609fedd703e25b65ffe524" />
+      <keyword name="colorMap" id="QwtPolarSpectrogram::colorMap" ref="class_qwt_polar_spectrogram.html#a40a0a5e542d69b272eaf66f461b7a8ab" />
+      <keyword name="setPaintAttribute" id="QwtPolarSpectrogram::setPaintAttribute" ref="class_qwt_polar_spectrogram.html#ab18845ab247ca1f1020a6c7e9cb9f666" />
+      <keyword name="testPaintAttribute" id="QwtPolarSpectrogram::testPaintAttribute" ref="class_qwt_polar_spectrogram.html#a41f00412730bd204d0249e22e53da5f8" />
+      <keyword name="rtti" id="QwtPolarSpectrogram::rtti" ref="class_qwt_polar_spectrogram.html#a50d7234e691d3194602cb48845233609" />
+      <keyword name="draw" id="QwtPolarSpectrogram::draw" ref="class_qwt_polar_spectrogram.html#a71bebc6043c31478ee41532daeb51d83" />
+      <keyword name="boundingInterval" id="QwtPolarSpectrogram::boundingInterval" ref="class_qwt_polar_spectrogram.html#a0e1256fa5f44c43bb5d05e125d8bb27b" />
+      <keyword name="QwtPolarItem" id="QwtPolarItem::QwtPolarItem" ref="class_qwt_polar_item.html#a22fdc73eb7e217a1ebedc6efdeff3617" />
+      <keyword name="~QwtPolarItem" id="QwtPolarItem::~QwtPolarItem" ref="class_qwt_polar_item.html#a84d84ea11f052f58b9e2dd82b0fbddde" />
+      <keyword name="attach" id="QwtPolarItem::attach" ref="class_qwt_polar_item.html#a9139f1fafbb5c196bed65495af18021d" />
+      <keyword name="detach" id="QwtPolarItem::detach" ref="class_qwt_polar_item.html#a287c3b95d98ff6fccf41efdad547f9fc" />
+      <keyword name="plot" id="QwtPolarItem::plot" ref="class_qwt_polar_item.html#a794b5a08b414bbf608438b9f8e61351a" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a5d4a9c3d2e56d0240f29ba096c70f882" />
+      <keyword name="setTitle" id="QwtPolarItem::setTitle" ref="class_qwt_polar_item.html#a75b5cb02ab578e37718ce563fee6004d" />
+      <keyword name="title" id="QwtPolarItem::title" ref="class_qwt_polar_item.html#aeea8c33d6c8eb9dfc03a5dd84bb79a08" />
+      <keyword name="setItemAttribute" id="QwtPolarItem::setItemAttribute" ref="class_qwt_polar_item.html#aa5222a54ed4578061f6af398a289ab0e" />
+      <keyword name="testItemAttribute" id="QwtPolarItem::testItemAttribute" ref="class_qwt_polar_item.html#a1247f746c5996e6f648cce135f4464f2" />
+      <keyword name="setRenderHint" id="QwtPolarItem::setRenderHint" ref="class_qwt_polar_item.html#acaa87e47f7a3d307f138bbce2dae7095" />
+      <keyword name="testRenderHint" id="QwtPolarItem::testRenderHint" ref="class_qwt_polar_item.html#ace2c161ad3239b1fa393b8fc7c88af57" />
+      <keyword name="setRenderThreadCount" id="QwtPolarItem::setRenderThreadCount" ref="class_qwt_polar_item.html#a3349eafd69c1e0249be71953b2551ff5" />
+      <keyword name="renderThreadCount" id="QwtPolarItem::renderThreadCount" ref="class_qwt_polar_item.html#a7e1ce59977f8898eef0504f75e2c501f" />
+      <keyword name="z" id="QwtPolarItem::z" ref="class_qwt_polar_item.html#af6f8fe9f550ef2862a8d0950364be68c" />
+      <keyword name="setZ" id="QwtPolarItem::setZ" ref="class_qwt_polar_item.html#acef8efd945a194b70a11ad39060de917" />
+      <keyword name="show" id="QwtPolarItem::show" ref="class_qwt_polar_item.html#abc6bba0128e8b9ce0a722640ca8a3e53" />
+      <keyword name="hide" id="QwtPolarItem::hide" ref="class_qwt_polar_item.html#a7160d323c3f0326d451ee71a636b60c4" />
+      <keyword name="setVisible" id="QwtPolarItem::setVisible" ref="class_qwt_polar_item.html#a75f908fc0ee164fdd3bb50436c1d90df" />
+      <keyword name="isVisible" id="QwtPolarItem::isVisible" ref="class_qwt_polar_item.html#ac8c0ec1da946590dff9546eec3eaae5c" />
+      <keyword name="itemChanged" id="QwtPolarItem::itemChanged" ref="class_qwt_polar_item.html#a0fa7263683e0982892162174328a55c1" />
+      <keyword name="legendChanged" id="QwtPolarItem::legendChanged" ref="class_qwt_polar_item.html#ac0e8b4bed9e819210271bdde3de58d3d" />
+      <keyword name="updateScaleDiv" id="QwtPolarItem::updateScaleDiv" ref="class_qwt_polar_item.html#a459d264543f40e9a41de90bc486b0f1f" />
+      <keyword name="marginHint" id="QwtPolarItem::marginHint" ref="class_qwt_polar_item.html#ae20a3bbecbae30cd8142f44aaa71ccaf" />
+      <keyword name="setLegendIconSize" id="QwtPolarItem::setLegendIconSize" ref="class_qwt_polar_item.html#a216fd1f5572147494ce794933ca41f60" />
+      <keyword name="legendIconSize" id="QwtPolarItem::legendIconSize" ref="class_qwt_polar_item.html#aa6e23f1d05849bf701b790949bcad052" />
+      <keyword name="legendData" id="QwtPolarItem::legendData" ref="class_qwt_polar_item.html#a0b63216d9cc44983e5f3707772e80fc4" />
+      <keyword name="legendIcon" id="QwtPolarItem::legendIcon" ref="class_qwt_polar_item.html#a60709288c71e7e96ac158eb422e64fd2" />
+      <keyword name="renderImage" id="QwtPolarSpectrogram::renderImage" ref="class_qwt_polar_spectrogram.html#a6664dc1913fd42c56b95fe479d0ae7e5" />
+      <keyword name="renderTile" id="QwtPolarSpectrogram::renderTile" ref="class_qwt_polar_spectrogram.html#a2e1a0c47c1ffb3406fe2d2ef8842db10" />
+      <keyword name="ApproximatedAtan" id="QwtPolarSpectrogram::ApproximatedAtan" ref="class_qwt_polar_spectrogram.html#a2a6dc68b2e1aa6959b196223bfe2e974a648db7c6b84aec213eaeea7698793288" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>bdwn.png</file>
+      <file>sync_on.png</file>
+      <file>sync_off.png</file>
+      <file>ftv2blank.png</file>
+      <file>ftv2doc.png</file>
+      <file>ftv2folderclosed.png</file>
+      <file>ftv2folderopen.png</file>
+      <file>ftv2ns.png</file>
+      <file>ftv2mo.png</file>
+      <file>ftv2cl.png</file>
+      <file>ftv2lastnode.png</file>
+      <file>ftv2link.png</file>
+      <file>ftv2mlastnode.png</file>
+      <file>ftv2mnode.png</file>
+      <file>ftv2node.png</file>
+      <file>ftv2plastnode.png</file>
+      <file>ftv2pnode.png</file>
+      <file>ftv2vertline.png</file>
+      <file>ftv2splitbar.png</file>
+      <file>doxygen.css</file>
+      <file>/search/mag_sel.png</file>
+      <file>/search/search_l.png</file>
+      <file>/search/search_m.png</file>
+      <file>/search/search_r.png</file>
+      <file>/search/close.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>qwt__polar_8h_source.html</file>
+      <file>qwt__polar__canvas_8h_source.html</file>
+      <file>qwt__polar__curve_8h_source.html</file>
+      <file>qwt__polar__fitter_8h_source.html</file>
+      <file>qwt__polar__global_8h_source.html</file>
+      <file>qwt__polar__grid_8h_source.html</file>
+      <file>qwt__polar__item_8h_source.html</file>
+      <file>qwt__polar__itemdict_8h_source.html</file>
+      <file>qwt__polar__layout_8h_source.html</file>
+      <file>qwt__polar__magnifier_8h_source.html</file>
+      <file>qwt__polar__marker_8h_source.html</file>
+      <file>qwt__polar__panner_8h_source.html</file>
+      <file>qwt__polar__picker_8h_source.html</file>
+      <file>qwt__polar__plot_8h_source.html</file>
+      <file>qwt__polar__renderer_8h_source.html</file>
+      <file>qwt__polar__spectrogram_8h_source.html</file>
+      <file>qwtlicense.html</file>
+      <file>class_qwt_polar_canvas.html</file>
+      <file>class_qwt_polar_canvas__inherit__graph.png</file>
+      <file>class_qwt_polar_canvas__inherit__graph.png</file>
+      <file>class_qwt_polar_canvas-members.html</file>
+      <file>class_qwt_polar_curve.html</file>
+      <file>class_qwt_polar_curve__inherit__graph.png</file>
+      <file>class_qwt_polar_curve__inherit__graph.png</file>
+      <file>class_qwt_polar_curve-members.html</file>
+      <file>class_qwt_polar_fitter.html</file>
+      <file>class_qwt_polar_fitter__inherit__graph.png</file>
+      <file>class_qwt_polar_fitter__inherit__graph.png</file>
+      <file>class_qwt_polar_fitter-members.html</file>
+      <file>class_qwt_polar_grid.html</file>
+      <file>class_qwt_polar_grid__inherit__graph.png</file>
+      <file>class_qwt_polar_grid__inherit__graph.png</file>
+      <file>class_qwt_polar_grid-members.html</file>
+      <file>class_qwt_polar_item.html</file>
+      <file>class_qwt_polar_item__inherit__graph.png</file>
+      <file>class_qwt_polar_item__inherit__graph.png</file>
+      <file>class_qwt_polar_item-members.html</file>
+      <file>class_qwt_polar_item_dict.html</file>
+      <file>class_qwt_polar_item_dict__inherit__graph.png</file>
+      <file>class_qwt_polar_item_dict__inherit__graph.png</file>
+      <file>class_qwt_polar_item_dict-members.html</file>
+      <file>class_qwt_polar_layout.html</file>
+      <file>class_qwt_polar_layout-members.html</file>
+      <file>class_qwt_polar_magnifier.html</file>
+      <file>class_qwt_polar_magnifier__inherit__graph.png</file>
+      <file>class_qwt_polar_magnifier__inherit__graph.png</file>
+      <file>class_qwt_polar_magnifier-members.html</file>
+      <file>class_qwt_polar_marker.html</file>
+      <file>class_qwt_polar_marker__inherit__graph.png</file>
+      <file>class_qwt_polar_marker__inherit__graph.png</file>
+      <file>class_qwt_polar_marker-members.html</file>
+      <file>class_qwt_polar_panner.html</file>
+      <file>class_qwt_polar_panner__inherit__graph.png</file>
+      <file>class_qwt_polar_panner__inherit__graph.png</file>
+      <file>class_qwt_polar_panner-members.html</file>
+      <file>class_qwt_polar_picker.html</file>
+      <file>class_qwt_polar_picker__inherit__graph.png</file>
+      <file>class_qwt_polar_picker__inherit__graph.png</file>
+      <file>class_qwt_polar_picker-members.html</file>
+      <file>class_qwt_polar_plot.html</file>
+      <file>class_qwt_polar_plot__inherit__graph.png</file>
+      <file>class_qwt_polar_plot__inherit__graph.png</file>
+      <file>class_qwt_polar_plot-members.html</file>
+      <file>class_qwt_polar_renderer.html</file>
+      <file>class_qwt_polar_renderer__inherit__graph.png</file>
+      <file>class_qwt_polar_renderer__inherit__graph.png</file>
+      <file>class_qwt_polar_renderer-members.html</file>
+      <file>class_qwt_polar_spectrogram.html</file>
+      <file>class_qwt_polar_spectrogram__inherit__graph.png</file>
+      <file>class_qwt_polar_spectrogram__inherit__graph.png</file>
+      <file>class_qwt_polar_spectrogram-members.html</file>
+      <file>graph_legend.png</file>
+      <file>graph_legend.html</file>
+      <file>dir_68267d1309a1af8e8297ef4c3efbcdba.html</file>
+      <file>dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png</file>
+      <file>dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png</file>
+      <file>index.html</file>
+      <file>polarplot.png</file>
+      <file>polarplot.png</file>
+      <file>pages.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>inherits.html</file>
+      <file>inherit_graph_0.png</file>
+      <file>inherit_graph_1.png</file>
+      <file>inherit_graph_2.png</file>
+      <file>inherit_graph_3.png</file>
+      <file>inherit_graph_4.png</file>
+      <file>inherit_graph_5.png</file>
+      <file>inherit_graph_6.png</file>
+      <file>inherit_graph_7.png</file>
+      <file>functions.html</file>
+      <file>functions_0x62.html</file>
+      <file>functions_0x63.html</file>
+      <file>functions_0x64.html</file>
+      <file>functions_0x65.html</file>
+      <file>functions_0x66.html</file>
+      <file>functions_0x67.html</file>
+      <file>functions_0x68.html</file>
+      <file>functions_0x69.html</file>
+      <file>functions_0x6c.html</file>
+      <file>functions_0x6d.html</file>
+      <file>functions_0x6e.html</file>
+      <file>functions_0x6f.html</file>
+      <file>functions_0x70.html</file>
+      <file>functions_0x72.html</file>
+      <file>functions_0x73.html</file>
+      <file>functions_0x74.html</file>
+      <file>functions_0x75.html</file>
+      <file>functions_0x76.html</file>
+      <file>functions_0x77.html</file>
+      <file>functions_0x7a.html</file>
+      <file>functions_0x7e.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func_0x62.html</file>
+      <file>functions_func_0x63.html</file>
+      <file>functions_func_0x64.html</file>
+      <file>functions_func_0x65.html</file>
+      <file>functions_func_0x66.html</file>
+      <file>functions_func_0x67.html</file>
+      <file>functions_func_0x68.html</file>
+      <file>functions_func_0x69.html</file>
+      <file>functions_func_0x6c.html</file>
+      <file>functions_func_0x6d.html</file>
+      <file>functions_func_0x70.html</file>
+      <file>functions_func_0x72.html</file>
+      <file>functions_func_0x73.html</file>
+      <file>functions_func_0x74.html</file>
+      <file>functions_func_0x75.html</file>
+      <file>functions_func_0x76.html</file>
+      <file>functions_func_0x77.html</file>
+      <file>functions_func_0x7a.html</file>
+      <file>functions_func_0x7e.html</file>
+      <file>functions_type.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_eval.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>

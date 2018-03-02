@@ -1,0 +1,232 @@
+.TH "QwtPolarMarker" 3 "Fri Sep 19 2014" "Version 1.1.1" "Qwt Polar User's Guide" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+QwtPolarMarker \- 
+.PP
+A class for drawing markers\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <qwt_polar_marker\&.h>\fP
+.PP
+Inherits \fBQwtPolarItem\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBQwtPolarMarker\fP ()"
+.br
+.RI "\fISets alignment to Qt::AlignCenter, and style to NoLine\&. \fP"
+.ti -1c
+.RI "virtual \fB~QwtPolarMarker\fP ()"
+.br
+.RI "\fIDestructor\&. \fP"
+.ti -1c
+.RI "virtual int \fBrtti\fP () const "
+.br
+.ti -1c
+.RI "void \fBsetPosition\fP (const QwtPointPolar &)"
+.br
+.RI "\fIChange the position of the marker\&. \fP"
+.ti -1c
+.RI "QwtPointPolar \fBposition\fP () const "
+.br
+.ti -1c
+.RI "void \fBsetSymbol\fP (const QwtSymbol *s)"
+.br
+.RI "\fIAssign a symbol\&. \fP"
+.ti -1c
+.RI "const QwtSymbol * \fBsymbol\fP () const "
+.br
+.ti -1c
+.RI "void \fBsetLabel\fP (const QwtText &)"
+.br
+.RI "\fISet the label\&. \fP"
+.ti -1c
+.RI "QwtText \fBlabel\fP () const "
+.br
+.ti -1c
+.RI "void \fBsetLabelAlignment\fP (Qt::Alignment)"
+.br
+.RI "\fISet the alignment of the label\&. \fP"
+.ti -1c
+.RI "Qt::Alignment \fBlabelAlignment\fP () const "
+.br
+.ti -1c
+.RI "virtual void \fBdraw\fP (QPainter *painter, const QwtScaleMap &azimuthMap, const QwtScaleMap &radialMap, const QPointF &pole, double radius, const QRectF &canvasRect) const "
+.br
+.ti -1c
+.RI "virtual QwtInterval \fBboundingInterval\fP (int scaleId) const "
+.br
+.in -1c
+.SS "Additional Inherited Members"
+.SH "Detailed Description"
+.PP 
+A class for drawing markers\&. 
+
+A marker can be a a symbol, a label or a combination of them, which can be drawn around a center point inside a bounding rectangle\&.
+.PP
+The \fBsetSymbol()\fP member assigns a symbol to the marker\&. The symbol is drawn at the specified point\&.
+.PP
+With \fBsetLabel()\fP, a label can be assigned to the marker\&. The \fBsetLabelAlignment()\fP member specifies where the label is drawn\&. All the Align*-constants in Qt::AlignmentFlags (see Qt documentation) are valid\&. The alignment refers to the center point of the marker, which means, for example, that the label would be painted left above the center point if the alignment was set to AlignLeft|AlignTop\&. 
+.SH "Member Function Documentation"
+.PP 
+.SS "QwtInterval QwtPolarMarker::boundingInterval (intscaleId) const\fC [virtual]\fP"
+Interval, that is necessary to display the item This interval can be useful for operations like clipping or autoscaling
+.PP
+\fBParameters:\fP
+.RS 4
+\fIscaleId\fP Scale index 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+bounding interval ( == position )
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBposition()\fP 
+.RE
+.PP
+
+.PP
+Reimplemented from \fBQwtPolarItem\fP\&.
+.SS "void QwtPolarMarker::draw (QPainter *painter, const QwtScaleMap &azimuthMap, const QwtScaleMap &radialMap, const QPointF &pole, doubleradius, const QRectF &canvasRect) const\fC [virtual]\fP"
+Draw the marker
+.PP
+\fBParameters:\fP
+.RS 4
+\fIpainter\fP Painter 
+.br
+\fIazimuthMap\fP Maps azimuth values to values related to 0\&.0, M_2PI 
+.br
+\fIradialMap\fP Maps radius values into painter coordinates\&. 
+.br
+\fIpole\fP Position of the pole in painter coordinates 
+.br
+\fIradius\fP Radius of the complete plot area in painter coordinates 
+.br
+\fIcanvasRect\fP Contents rect of the canvas in painter coordinates 
+.RE
+.PP
+
+.PP
+Implements \fBQwtPolarItem\fP\&.
+.SS "QwtText QwtPolarMarker::label () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+the label 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetLabel()\fP 
+.RE
+.PP
+
+.SS "Qt::Alignment QwtPolarMarker::labelAlignment () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+the label alignment 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetLabelAlignment()\fP 
+.RE
+.PP
+
+.SS "QwtPointPolar QwtPolarMarker::position () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Position of the marker 
+.RE
+.PP
+
+.SS "int QwtPolarMarker::rtti () const\fC [virtual]\fP"
+
+.PP
+\fBReturns:\fP
+.RS 4
+QwtPolarItem::Rtti_PlotMarker 
+.RE
+.PP
+
+.PP
+Reimplemented from \fBQwtPolarItem\fP\&.
+.SS "void QwtPolarMarker::setLabel (const QwtText &label)"
+
+.PP
+Set the label\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIlabel\fP label text 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBlabel()\fP 
+.RE
+.PP
+
+.SS "void QwtPolarMarker::setLabelAlignment (Qt::Alignmentalign)"
+
+.PP
+Set the alignment of the label\&. The alignment determines where the label is drawn relative to the marker's position\&.
+.PP
+\fBParameters:\fP
+.RS 4
+\fIalign\fP Alignment\&. A combination of AlignTop, AlignBottom, AlignLeft, AlignRight, AlignCenter, AlgnHCenter, AlignVCenter\&. 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBlabelAlignment()\fP 
+.RE
+.PP
+
+.SS "void QwtPolarMarker::setSymbol (const QwtSymbol *symbol)"
+
+.PP
+Assign a symbol\&. 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIsymbol\fP New symbol 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsymbol()\fP 
+.RE
+.PP
+
+.SS "const QwtSymbol * QwtPolarMarker::symbol () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+the symbol 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetSymbol()\fP, QwtSymbol 
+.RE
+.PP
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Qwt Polar User's Guide from the source code\&.

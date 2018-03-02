@@ -1,0 +1,180 @@
+.TH "QwtPolarMagnifier" 3 "Fri Sep 19 2014" "Version 1.1.1" "Qwt Polar User's Guide" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+QwtPolarMagnifier \- 
+.PP
+\fBQwtPolarMagnifier\fP provides zooming, by magnifying in steps\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <qwt_polar_magnifier\&.h>\fP
+.PP
+Inherits QwtMagnifier\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBQwtPolarMagnifier\fP (\fBQwtPolarCanvas\fP *)"
+.br
+.ti -1c
+.RI "virtual \fB~QwtPolarMagnifier\fP ()"
+.br
+.RI "\fIDestructor\&. \fP"
+.ti -1c
+.RI "void \fBsetUnzoomKey\fP (int key, int modifiers)"
+.br
+.ti -1c
+.RI "void \fBgetUnzoomKey\fP (int &key, int &modifiers) const "
+.br
+.ti -1c
+.RI "\fBQwtPolarPlot\fP * \fBplot\fP ()"
+.br
+.ti -1c
+.RI "const \fBQwtPolarPlot\fP * \fBplot\fP () const "
+.br
+.ti -1c
+.RI "\fBQwtPolarCanvas\fP * \fBcanvas\fP ()"
+.br
+.ti -1c
+.RI "const \fBQwtPolarCanvas\fP * \fBcanvas\fP () const "
+.br
+.in -1c
+.SS "Protected Member Functions"
+
+.in +1c
+.ti -1c
+.RI "virtual void \fBrescale\fP (double factor)"
+.br
+.ti -1c
+.RI "void \fBunzoom\fP ()"
+.br
+.RI "\fIUnzoom the plot widget\&. \fP"
+.ti -1c
+.RI "virtual void \fBwidgetKeyPressEvent\fP (QKeyEvent *)"
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+\fBQwtPolarMagnifier\fP provides zooming, by magnifying in steps\&. 
+
+Using QwtPlotMagnifier a plot can be zoomed in/out in steps using keys, the mouse wheel or moving a mouse button in vertical direction\&.
+.PP
+Together with \fBQwtPolarPanner\fP it is possible to implement an individual navigation of the plot canvas\&.
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBQwtPolarPanner\fP, \fBQwtPolarPlot\fP, \fBQwtPolarCanvas\fP 
+.RE
+.PP
+
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "QwtPolarMagnifier::QwtPolarMagnifier (\fBQwtPolarCanvas\fP *canvas)\fC [explicit]\fP"
+Constructor 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIcanvas\fP Plot canvas to be magnified 
+.RE
+.PP
+
+.SH "Member Function Documentation"
+.PP 
+.SS "\fBQwtPolarCanvas\fP * QwtPolarMagnifier::canvas ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Observed plot canvas 
+.RE
+.PP
+
+.SS "const \fBQwtPolarCanvas\fP * QwtPolarMagnifier::canvas () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Observed plot canvas 
+.RE
+.PP
+
+.SS "void QwtPolarMagnifier::getUnzoomKey (int &key, int &modifiers) const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Key, and modifiers that are used for unzooming
+.RE
+.PP
+\fBParameters:\fP
+.RS 4
+\fIkey\fP Key code 
+.br
+\fImodifiers\fP Modifiers 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetUnzoomKey()\fP, \fBQwtPolarPlot::unzoom()\fP 
+.RE
+.PP
+
+.SS "\fBQwtPolarPlot\fP * QwtPolarMagnifier::plot ()"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Observed plot 
+.RE
+.PP
+
+.SS "const \fBQwtPolarPlot\fP * QwtPolarMagnifier::plot () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+observed plot 
+.RE
+.PP
+
+.SS "void QwtPolarMagnifier::rescale (doublefactor)\fC [protected]\fP, \fC [virtual]\fP"
+Zoom in/out the zoomed area 
+.PP
+\fBParameters:\fP
+.RS 4
+\fIfactor\fP A value < 1\&.0 zooms in, a value > 1\&.0 zooms out\&. 
+.RE
+.PP
+
+.SS "void QwtPolarMagnifier::setUnzoomKey (intkey, intmodifiers)"
+Assign key and modifiers, that are used for unzooming The default combination is Qt::Key_Home + Qt::NoModifier\&.
+.PP
+\fBParameters:\fP
+.RS 4
+\fIkey\fP Key code 
+.br
+\fImodifiers\fP Modifiers 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBgetUnzoomKey()\fP, \fBQwtPolarPlot::unzoom()\fP 
+.RE
+.PP
+
+.SS "void QwtPolarMagnifier::widgetKeyPressEvent (QKeyEvent *event)\fC [protected]\fP, \fC [virtual]\fP"
+Handle a key press event for the observed widget\&.
+.PP
+\fBParameters:\fP
+.RS 4
+\fIevent\fP Key event 
+.RE
+.PP
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Qwt Polar User's Guide from the source code\&.

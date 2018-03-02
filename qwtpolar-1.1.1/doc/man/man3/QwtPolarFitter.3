@@ -1,0 +1,111 @@
+.TH "QwtPolarFitter" 3 "Fri Sep 19 2014" "Version 1.1.1" "Qwt Polar User's Guide" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+QwtPolarFitter \- 
+.PP
+A simple curve fitter for polar points\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <qwt_polar_fitter\&.h>\fP
+.PP
+Inherits QwtCurveFitter\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBQwtPolarFitter\fP (int \fBstepCount\fP=5)"
+.br
+.ti -1c
+.RI "virtual \fB~QwtPolarFitter\fP ()"
+.br
+.RI "\fIDestructor\&. \fP"
+.ti -1c
+.RI "void \fBsetStepCount\fP (int size)"
+.br
+.ti -1c
+.RI "int \fBstepCount\fP () const "
+.br
+.ti -1c
+.RI "virtual QPolygonF \fBfitCurve\fP (const QPolygonF &) const "
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+A simple curve fitter for polar points\&. 
+
+\fBQwtPolarFitter\fP adds equidistant points between 2 curve points, so that the connection gets rounded according to the nature of a polar plot\&.
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBQwtPolarCurve::setCurveFitter()\fP 
+.RE
+.PP
+
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "QwtPolarFitter::QwtPolarFitter (intstepCount = \fC5\fP)"
+Constructor
+.PP
+\fBParameters:\fP
+.RS 4
+\fIstepCount\fP Number of points, that will be inserted between 2 points 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetStepCount()\fP 
+.RE
+.PP
+
+.SH "Member Function Documentation"
+.PP 
+.SS "QPolygonF QwtPolarFitter::fitCurve (const QPolygonF &points) const\fC [virtual]\fP"
+Insert \fBstepCount()\fP number of additional points between 2 elements of points\&.
+.PP
+\fBParameters:\fP
+.RS 4
+\fIpoints\fP Array of points 
+.RE
+.PP
+\fBReturns:\fP
+.RS 4
+Array of points including the additional points 
+.RE
+.PP
+
+.SS "void QwtPolarFitter::setStepCount (intstepCount)"
+Assign the number of points, that will be inserted between 2 points The default value is 5\&.
+.PP
+\fBParameters:\fP
+.RS 4
+\fIstepCount\fP Number of steps
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBstepCount()\fP 
+.RE
+.PP
+
+.SS "int QwtPolarFitter::stepCount () const"
+
+.PP
+\fBReturns:\fP
+.RS 4
+Number of points, that will be inserted between 2 points 
+.RE
+.PP
+\fBSee Also:\fP
+.RS 4
+\fBsetStepCount()\fP 
+.RE
+.PP
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Qwt Polar User's Guide from the source code\&.

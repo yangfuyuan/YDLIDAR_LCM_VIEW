@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/grid-off.png</file>
+        <file>images/grid-on.png</file>
+        <file>images/mirror.png</file>
+        <file>images/rotate.png</file>
+        <file>images/play.png</file>
+        <file>images/Pause.png</file>
+        <file>images/app.png</file>
+        <file>images/rotates.png</file>
+        <file>images/help.png</file>
+        <file>qss/default.qss</file>
+    </qresource>
+</RCC>

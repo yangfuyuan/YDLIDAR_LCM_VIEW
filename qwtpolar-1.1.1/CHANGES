@@ -1,0 +1,73 @@
+Release 1.1.0
+===================
+
+Migration for:
+
+  - Qwt 6.1
+  - Qt4 ( >= 4.4 ) or Qt5 
+
+Release 1.0.1
+===================
+
+Bug Fixes
+---------
+1. MSVC compiler issues fixed
+2. Install path for the designer fixed
+3. Missing signal/slot connections of legendItemClicked/legendItemChecked added
+4. Memory leaks fixed
+5. Usage of QwtCurveFitter fixed
+6. QwtPolarPicker normalization of the displayed tracker position
+7. QwtPolarCanvas::invTransform fixed
+
+Release 1.0.0
+===================
+
+Changes
+-------
+1. Adopted to Qwt 6.0
+2. QwtPolarRenderer introduced
+3. QwtPlotSpectrogram 
+   - paint attributes ( using qwtFastAtan2 )
+   - setRenderThreadCount introduced
+4. QwtPolarPicker added ( better supported Qwt >= 6.1 )
+5) QwtPolarPoint replaced by QwtPointPolar from Qwt
+6. Basic support for style sheets
+
+
+Release 0.1.0
+===================
+
+Changes
+-------
+1. Adopted to Qwt 5.2
+2. QwtPolarSpectrogram added
+3. QwtPolarPlot::layoutChanged() added
+
+Bug Fixes
+---------
+1. qmake files fixed for DLLs on windows
+2. A couple of QWT_EXPORT declarations replaced by QWT_POLAR_EXPORT
+
+Release 0.0.3
+===================
+
+1. QwtPolarPlot::renderTo() added for any type of paint device
+   F.e. you can print or export a plot to a SVG document.
+2. QwtPolarLayout added
+   This layout engine is necessary for QwtPolarPlot::renderTo()
+3. QwtPolarFitter added
+   A simple fitter that adds equidistant points, so that the connections
+   of a curve in line mode get "rounded".
+4. A couple of workarounds added, to avoid painting bottlenecks.
+5. Panning and zoom out have been restricted to plots, that are zoomed in.
+6. Designer plugin added 
+
+Release 0.0.2
+===================
+
+1. GPL replaced by the Qwt License
+
+Release 0.0.1
+===================
+
+1. qmake project files fixed
